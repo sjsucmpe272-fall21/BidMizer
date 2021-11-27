@@ -18,7 +18,8 @@ def selectProject():
 
 @app.route('/predictProject', methods=['POST'])
 def predictProject():
-    project1 = current_directory + "/projects/project1.csv"
+    project1 = request.files['file']
+    #project1 = current_directory + "/projects/project1.csv"
     X_predict = pd.read_csv(project1, usecols=['Quantity']).values.reshape(1, -1)
     model = bidMizerModel(current_directory)
     predCost = locale.currency(model.predict(X_predict))

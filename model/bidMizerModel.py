@@ -1,3 +1,5 @@
+import struct
+
 import numpy as np
 import pandas as pd
 import xgboost as xgb
@@ -8,6 +10,7 @@ from sklearn.ensemble import GradientBoostingRegressor, ExtraTreesRegressor
 from model.helper import helper
 import os
 root_directory = os.path.abspath('.')
+
 
 class bidMizerModel(helper):
 
