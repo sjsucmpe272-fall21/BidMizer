@@ -12,15 +12,30 @@ locale.setlocale(locale.LC_ALL, 'en_CA.UTF-8')
 def home():
     return render_template('home.html');
 
+@app.route('/home', methods=['GET'])
+def apphome():
+    return render_template('home.html');
+
+@app.route('/login', methods=['GET'])
+def login():
+    return render_template('login.html');
+
+@app.route('/logout', methods=['GET'])
+def logout():
+    return render_template('logout.html');
+
+@app.route('/signup', methods=['GET'])
+def signup():
+    return render_template('signup.html');
+
 @app.route('/selectProject', methods=['GET'])
 def selectProject():
     return render_template('selectProject.html');
 
 @app.route('/predictProject', methods=['POST'])
 def predictProject():
-    project1 = request.files['file']
-    #project1 = current_directory + "/projects/project1.csv"
-    X_predict = pd.read_csv(project1, usecols=['Quantity']).values.reshape(1, -1)
+    project = request.files['file']
+    X_predict = pd.read_csv(project, usecols=['Quantity']).values.reshape(1, -1)
     model = bidMizerModel(current_directory)
     predCost = locale.currency(model.predict(X_predict))
     return render_template('predictProject.html', predCost=predCost);
