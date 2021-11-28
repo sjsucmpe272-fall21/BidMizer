@@ -1,12 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>BID_MIZER</title>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+    <link>
+    <style>
+        * {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        body {
+          line-height: 1.7em;
+          color: #7f8c8d;
+          font-size: 13px;
+        }
+
+        .splash-container {
+            background: #1f8dd6;
+            z-index: 1;
+            overflow: hidden;
+            /* The following styles are required for the "scroll-over" effect */
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            position: fixed !important;
+        }
+
+        .splash {
+            /* absolute center .splash within .splash-container */
+            width: 80%;
+            height: 50%;
+            margin: auto;
+            position: absolute;
+            top: 100px; left: 0; bottom: 0; right: 0;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        /* This is the main heading that appears on the blue section */
+        .splash-head {
+            font-size: 30px;
+            font-weight: bold;
+            color: white;
+            border: 3px solid white;
+            padding: 1em 1.6em;
+            font-weight: 100;
+            border-radius: 5px;
+            line-height: 1.5em;
+        }
+
+        /* This is the subheading that appears on the blue section */
+        .splash-subhead {
+            color: white;
+            letter-spacing: 0.05em;
+            opacity: 0.8;
+        }
+
+        .pure-button {
+            background-color: #1f8dd6;
+            color: white;
+            padding: 0.5em 2em;
+            border-radius: 5px;
+        }
+
+        .pure-button-primary {
+            background: white;
+            color: #1f8dd6;
+            border-radius: 5px;
+            font-size: 120%;
+        }
+
+        h1 {
+            color: #34495e;
+        }
+
+
+
+    </style>
 </head>
 <body>
     <form class="" name="" action="/selectProject" method='GET'>
-      <button name="start_bid" >Start Biding</button>
+        <div class="splash-container">
+            <div class="splash">
+                <h1 class="splash-head">BidMizer</h1>
+                <p class="splash-subhead">
+                    Get the estimation using BidMizer and master construction bidding everytime
+                </p>
+                <p>
+                    <button class="pure-button pure-button-primary">Get Bidding Estimate</button>
+                </p>
+            </div>
+        </div>
     </form>
 </body>
 </html>

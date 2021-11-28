@@ -2,9 +2,194 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>BID_MIZER</title>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+    <title>BIDMIZER</title>
+    <style>
+        .splash-container {
+            background: #1f8dd6;
+            z-index: 1;
+            overflow: hidden;
+            /* The following styles are required for the "scroll-over" effect */
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            position: fixed !important;
+            text-align: center;
+        }
+
+        .splash-body {
+            width: 80%;
+            height: 50%;
+            margin: auto;
+            position: absolute;
+            top: 100px; left: 0; bottom: 0; right: 0;
+            text-align: center;
+            text-transform: uppercase;
+            color: white;
+            letter-spacing: 0.05em;
+        }
+
+        .splash-subhead {
+            font-size: 30px;
+            font-weight: bold;
+            color: white;
+            border: 3px solid white;
+            padding: 1em 1.6em;
+            font-weight: 100;
+            border-radius: 5px;
+            line-height: 1.5em;
+            width: 50%;
+            margin: auto;
+        }
+
+        .splash-head {
+            color: white;
+            letter-spacing: 0.05em;
+            opacity: 0.8;
+        }
+
+        $particles: 50;
+        $width: 500;
+        $height: 500;
+
+        // Create the explosion...
+        $box-shadow: ();
+        $box-shadow2: ();
+        @for $i from 0 through $particles {
+          $box-shadow: $box-shadow,
+                       random($width)-$width / 2 + px
+                       random($height)-$height / 1.2 + px
+                       hsl(random(360), 100, 50);
+          $box-shadow2: $box-shadow2, 0 0 #fff
+        }
+        @mixin keyframes ($animationName) {
+            @-webkit-keyframes #{$animationName} {
+                @content;
+            }
+
+            @-moz-keyframes #{$animationName} {
+                @content;
+            }
+
+            @-o-keyframes #{$animationName} {
+                @content;
+            }
+
+            @-ms-keyframes #{$animationName} {
+                @content;
+            }
+
+            @keyframes #{$animationName} {
+                @content;
+            }
+        }
+
+        @mixin animation-delay ($settings) {
+            -moz-animation-delay: $settings;
+            -webkit-animation-delay: $settings;
+            -o-animation-delay: $settings;
+            -ms-animation-delay: $settings;
+            animation-delay: $settings;
+        }
+
+        @mixin animation-duration ($settings) {
+            -moz-animation-duration: $settings;
+            -webkit-animation-duration: $settings;
+            -o-animation-duration: $settings;
+            -ms-animation-duration: $settings;
+            animation-duration: $settings;
+        }
+
+        @mixin animation ($settings) {
+            -moz-animation: $settings;
+            -webkit-animation: $settings;
+            -o-animation: $settings;
+            -ms-animation: $settings;
+            animation: $settings;
+        }
+
+        @mixin transform ($settings) {
+            transform: $settings;
+            -moz-transform: $settings;
+            -webkit-transform: $settings;
+            -o-transform: $settings;
+            -ms-transform: $settings;
+        }
+
+        body {
+          margin:0;
+          padding:0;
+          background: #000;
+          overflow: hidden;
+        }
+
+        .pyro > .before, .pyro > .after {
+          position: absolute;
+          width: 5px;
+          height: 5px;
+          border-radius: 50%;
+          box-shadow: $box-shadow2;
+          @include animation((1s bang ease-out infinite backwards, 1s gravity ease-in infinite backwards, 5s position linear infinite backwards));
+        }
+
+        .pyro > .after {
+          @include animation-delay((1.25s, 1.25s, 1.25s));
+          @include animation-duration((1.25s, 1.25s, 6.25s));
+        }
+
+        @include keyframes(bang) {
+          to {
+            box-shadow:$box-shadow;
+          }
+        }
+
+        @include keyframes(gravity)  {
+          to {
+            @include transform(translateY(200px));
+            opacity: 0;
+          }
+        }
+
+        @include keyframes(position) {
+          0%, 19.9% {
+            margin-top: 10%;
+            margin-left: 40%;
+          }
+          20%, 39.9% {
+            margin-top: 40%;
+            margin-left: 30%;
+          }
+          40%, 59.9% {
+            margin-top: 20%;
+            margin-left: 70%
+          }
+          60%, 79.9% {
+            margin-top: 30%;
+            margin-left: 20%;
+          }
+          80%, 99.9% {
+            margin-top: 30%;
+            margin-left: 80%;
+          }
+        }
+
+    </style>
 </head>
 <body>
-    Predicted Cost {{predCost}}
+    <div class="pyro">
+      <div class="before"></div>
+      <div class="after"></div>
+    </div>
+    <div class="splash-container">
+        <div class="splash-body">
+            <div class="splash">
+                <h1 class="splash-head">Predicted Cost</h1>
+                <p class="splash-subhead">
+                    {{predCost}}
+                </p>
+            </div>
+        </div>
+    </div>
 </body>
 </html>

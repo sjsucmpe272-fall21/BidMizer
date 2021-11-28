@@ -2,14 +2,73 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
     <title>BID_MIZER</title>
+    <style>
+        .splash-container {
+            background: #1f8dd6;
+            z-index: 1;
+            overflow: hidden;
+            /* The following styles are required for the "scroll-over" effect */
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            position: fixed !important;
+            text-align: center;
+
+        }
+
+        .splash-body {
+            width: 80%;
+            height: 50%;
+            margin: auto;
+            position: absolute;
+            top: 100px; left: 0; bottom: 0; right: 0;
+            text-align: center;
+            text-transform: uppercase;
+            color: white;
+            letter-spacing: 0.05em;
+        }
+
+        .splash-file-upload {
+            color: white;
+            border: 3px solid white;
+            padding: 2em 1.6em;
+            border-radius: 5px;
+            line-height: 1.5em;
+            width: 50%;
+            margin: auto;
+        }
+
+        .pure-button {
+            background-color: #1f8dd6;
+            color: white;
+            padding: 0.5em 2em;
+            border-radius: 5px;
+        }
+
+        .pure-button-primary {
+            background: white;
+            color: #1f8dd6;
+            border-radius: 5px;
+            font-size: 120%;
+        }
+    </style>
 </head>
 <body>
-    <form class="" name="" action="/predictProject" method='POST'>
-        <button name="project_1" >Project 1</button>
-        <button name="project_2" >Project 2</button>
-        <button name="project_3" >Project 3</button>
-        <button name="project_4" >Project 4</button>
+    <form action = "/predictProject" method = "POST"
+         enctype = "multipart/form-data">
+        <div class="splash-container">
+            <div class="splash-body">
+                <h2 class="">Upload the project to calculate the bidding estimate</h2>
+                <h4 class="">Select the project with bid items quantity  to each work item</h4>
+                <div class="splash-file-upload">
+                    <input type = "file" name = "file" />
+                    <input type = "submit" class="pure-button pure-button-primary"/>
+                </div>
+            </div>
+        </div>
     </form>
 </body>
 </html>
