@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
-    <title>BIDMIZER</title>
+    <title>BID MIZER</title>
     <style>
         .splash-container {
             background: #1f8dd6;
             z-index: 1;
             overflow: hidden;
-            /* The following styles are required for the "scroll-over" effect */
             width: 100%;
             height: 100%;
             top: 0;
@@ -178,18 +177,19 @@
 </head>
 <body>
     <div class="pyro">
-      <div class="before"></div>
-      <div class="after"></div>
-    </div>
-    <div class="splash-container">
-        <div class="splash-body">
-            <div class="splash">
-                <h1 class="splash-head">Predicted Cost</h1>
-                <p class="splash-subhead">
-                    {{predCost}}
-                </p>
+        <div class="splash-container">
+            <div class="splash-body">
+                <div class="splash">
+                    <h1 class="splash-head">Estimated Bid</h1>
+                    <p class="splash-subhead">
+                        {{predCost}}
+                    </p>
+                </div>
             </div>
         </div>
+        <div class="before"></div>
+        <div class="after"></div>
     </div>
+
 </body>
 </html>
