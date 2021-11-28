@@ -78,16 +78,17 @@
     </style>
 </head>
 <body>
-    <form class="" name="" action="/selectProject" method='GET'>
+    <form class="" name="" action="/home" method='GET'>
         <div class="splash-container">
             <div class="splash">
                 <h1 class="splash-head">BidMizer</h1>
-                <p class="splash-subhead">
-                    Get the estimation using BidMizer and master construction bidding everytime
-                </p>
-                <p>
-                    <button class="pure-button pure-button-primary">Get Bidding Estimate</button>
-                </p>
+                <div class="field">
+                    <input class="input is-large" type="email" name="email" placeholder="Your Email" autofocus="">
+                </div>
+                <div class="field">
+                    <input class="input is-large" type="password" name="password" placeholder="Your Password">
+                </div>
+                <button class="pure-button pure-button-primary">Login</button>
             </div>
         </div>
     </form>
