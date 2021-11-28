@@ -1,6 +1,6 @@
 Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM,
 201,00000,201-00000,Clearing and Grubbing,0,L S,!B2
-201,00001,201-00001,Clearing and Grubbing,6,ACRE,!B3
+201,00001,201-00001,Clearing and Grubbing,0,ACRE,!B3
 201,00002,201-00002,Clearing,0,L S,!B4
 201,00005,201-00005,Removal of Debris,0,L S,!B5
 201,00010,201-00010,Clearing,0,LS,!B6
@@ -14,18 +14,18 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 202,00006,202-00006,Removal of Temporary Supports,0,EACH,!B14
 202,00008,202-00008,Tree Trimming,0,HOUR,!B15
 202,00009,202-00009,Tree Trimming,0,L S,!B16
-202,00010,202-00010,Removal of Tree,33,EACH,!B17
+202,00010,202-00010,Removal of Tree,0,EACH,!B17
 202,00011,202-00011,Tree Trimming,0,EACH,!B18
 202,00012,202-00012,Removal of Tree Stump,0,EACH,!B19
 202,00013,202-00013,Removal of Erosion Mat,0,SY,!B20
 202,00014,202-00014,Brush Clearing,0,HOUR,!B21
 202,00015,202-00015,Removal of Headwall,0,EACH,!B22
-202,00016,202-00016,Removal of Tree Support,3,EACH,!B23
+202,00016,202-00016,Removal of Tree Support,0,EACH,!B23
 202,00019,202-00019,Removal of Inlet,0,EACH,!B24
 202,00020,202-00020,Removal of Concrete Box Culvert,0,EACH,!B25
 202,00021,202-00021,Removal of Manhole,0,EACH,!B26
 202,00022,202-00022,Removal of Headgate,0,EACH,!B27
-202,00023,202-00023,Removal of Embankment Protector Type 3,2,EACH,!B28
+202,00023,202-00023,Removal of Embankment Protector Type 3,0,EACH,!B28
 202,00024,202-00024,Removal of Embankment Protector Type 5,0,EACH,!B29
 202,00025,202-00025,Removal of Ditch Lining,0,LF,!B30
 202,00026,202-00026,Removal of Slope and Ditch Paving,0,SY,!B31
@@ -35,9 +35,9 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 202,00031,202-00031,Removal of Fire Hydrant,0,EACH,!B35
 202,00032,202-00032,Removal of Valve,0,EACH,!B36
 202,00033,202-00033,Removal of Pipe,0,EACH,!B37
-202,00035,202-00035,Removal of Pipe,114,LF,!B38
+202,00035,202-00035,Removal of Pipe,8,LF,!B38
 202,00036,202-00036,Removal of Pipe (Special),0,LF,!B39
-202,00037,202-00037,Removal of End Section,5,EACH,!B40
+202,00037,202-00037,Removal of End Section,0,EACH,!B40
 202,00038,202-00038,Removal of Structural Plate Pipe,0,LF,!B41
 202,00039,202-00039,Removal of Bollard,0,EACH,!B42
 202,00040,202-00040,Removal of Electrical Conduit,0,LF,!B43
@@ -48,44 +48,44 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 202,00060,202-00060,Removal of Travel Time Indicator,0,EACH,!B48
 202,00070,202-00070,Removal of Barricade,0,EACH,!B49
 202,00080,202-00080,Removal of Guard Post,0,EACH,!B50
-202,00090,202-00090,Removal of Delineator,22,EACH,!B51
+202,00090,202-00090,Removal of Delineator,0,EACH,!B51
 202,00100,202-00100,Removal of Dome Channelizing Device,0,EACH,!B52
 202,00150,202-00150,Removal of Wall,0,EACH,!B53
-202,00155,202-00155,Removal of Wall,276,LF,!B54
+202,00155,202-00155,Removal of Wall,0,LF,!B54
 202,00160,202-00160,Removal of Wall,0,SF,!B55
 202,00165,202-00165,Removal of Wall,0,L S,!B56
 202,00170,202-00170,Grinding And Texturing Concrete Pavement,0,SY,!B57
 202,00175,202-00175,Removal of Concrete,0,L S,!B58
 202,00190,202-00190,Removal of Concrete Median Cover Material,0,SY,!B59
-202,00195,202-00195,Removal of Median Cover,425,SY,!B60
-202,00200,202-00200,Removal of Sidewalk,0,SY,!B61
+202,00195,202-00195,Removal of Median Cover,71,SY,!B60
+202,00200,202-00200,Removal of Sidewalk,55,SY,!B61
 202,00201,202-00201,Removal of Curb,0,LF,!B62
 202,00202,202-00202,Removal of Gutter,0,LF,!B63
-202,00203,202-00203,Removal of Curb and Gutter,2108,LF,!B64
+202,00203,202-00203,Removal of Curb and Gutter,775,LF,!B64
 202,00204,202-00204,"Removal of Curb, Gutter and Sidewalk",0,LF,!B65
 202,00205,202-00205,Removal of Wheel Stop,0,EACH,!B66
 202,00206,202-00206,Removal of Concrete Curb Ramp,0,SY,!B67
 202,00207,202-00207,Removal of Brick Pavers,0,SY,!B68
 202,00210,202-00210,Removal of Concrete Pavement,0,SY,!B69
-202,00212,202-00212,Removal of Concrete Pavement (Special),3557,SY,!B70
+202,00212,202-00212,Removal of Concrete Pavement (Special),0,SY,!B70
 202,00215,202-00215,Removal of Concrete Pavement (Planing),0,SY,!B71
 202,00217,202-00217,Remove Concrete Pavement (Planing) (Special),0,SY,!B72
-202,00220,202-00220,Removal of Asphalt Mat,6806,SY,!B73
+202,00220,202-00220,Removal of Asphalt Mat,24.5,SY,!B73
 202,00226,202-00226,Removal of Asphalt Mat (Special),0,SY,!B74
-202,00240,202-00240,Removal of Asphalt Mat (Planing),16430,SY,!B75
+202,00240,202-00240,Removal of Asphalt Mat (Planing),0,SY,!B75
 202,00241,202-00241,Removal of Asphalt Mat (Planing)(Special),0,CY,!B76
 202,00245,202-00245,Removal of Asphalt Mat (Planing),0,TON,!B77
 202,00246,202-00246,Removal of Asphalt Mat (Planing) (Special),0,SY,!B78
 202,00247,202-00247,Removal of Asphalt Mat (Planing),0,L S,!B79
 202,00248,202-00248,Removal of Rumble Strips,0,LF,!B80
-202,00250,202-00250,Removal of Pavement Marking,3893,SF,!B81
+202,00250,202-00250,Removal of Pavement Marking,0,SF,!B81
 202,00251,202-00251,Removal of Pavement Marking (Asphalt Grooving),0,SF,!B82
 202,00252,202-00252,Removal of Pavement Marking (Concrete Grooving),0,SF,!B83
 202,00254,202-00254,Removal of Pavement Marking (12 Inch),0,SF,!B84
 202,00256,202-00256,Removal of Pavement Marking (15 Inch),0,SF,!B85
 202,00260,202-00260,Removal of Pavement Marking (On-Call),0,SF,!B86
 202,00300,202-00300,Removal of Building(s),0,L S,!B87
-202,00400,202-00400,Removal of Bridge,2,EACH,!B88
+202,00400,202-00400,Removal of Bridge,0,EACH,!B88
 202,00401,202-00401,Removal of Bridge (Special),0,EACH,!B89
 202,00405,202-00405,Removal of Piling,0,EACH,!B90
 202,00410,202-00410,Removal of Mat From Bridge,0,SY,!B91
@@ -114,14 +114,14 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 202,00620,202-00620,Removal of Railroad Crossover,0,EACH,!B114
 202,00621,202-00621,Removal of Railroad Turnout,0,EACH,!B115
 202,00700,202-00700,Removal of Light Standard,0,EACH,!B116
-202,00705,202-00705,Removal of Light Standard Foundation,18,EACH,!B117
+202,00705,202-00705,Removal of Light Standard Foundation,0,EACH,!B117
 202,00710,202-00710,Removal of Power Pole,0,EACH,!B118
 202,00715,202-00715,Removal of Closed Circuit Television Pole,0,EACH,!B119
 202,00720,202-00720,Removal of Closed Circuit Camera,0,EACH,!B120
 202,00725,202-00725,Removal of Existing Lighting System,0,L S,!B121
 202,00750,202-00750,Removal of Luminaire,0,EACH,!B122
 202,00800,202-00800,Removal of Overpass Mounted Sign Bracket,0,EACH,!B123
-202,00805,202-00805,Removal of Overhead Sign Structure,1,EACH,!B124
+202,00805,202-00805,Removal of Overhead Sign Structure,0,EACH,!B124
 202,00806,202-00806,Removal of Walkway,0,LF,!B125
 202,00810,202-00810,Removal of Ground Sign,1,EACH,!B126
 202,00815,202-00815,Removal of Sign (Special),0,EACH,!B127
@@ -129,8 +129,8 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 202,00821,202-00821,Removal of Sign Panel,0,EACH,!B129
 202,00823,202-00823,Removal of Dynamic Message Sign,0,EACH,!B130
 202,00825,202-00825,Removal of Flashing Beacon,0,EACH,!B131
-202,00827,202-00827,Removal of Pull Box,12,EACH,!B132
-202,00828,202-00828,Removal of Traffic Signal Equipment,0,L S,!B133
+202,00827,202-00827,Removal of Pull Box,0,EACH,!B132
+202,00828,202-00828,Removal of Traffic Signal Equipment,1,L S,!B133
 202,00830,202-00830,Removal of Traffic Signal Face,0,EACH,!B134
 202,00831,202-00831,Removal of Traffic Signal Head,0,EACH,!B135
 202,00832,202-00832,Removal of Sign Panel (Special),0,EACH,!B136
@@ -153,7 +153,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 202,00895,202-00895,Removal of Impact Attenuator,0,EACH,!B153
 202,00900,202-00900,Removal of Concrete Footing,0,EACH,!B154
 202,00950,202-00950,Removal of Concrete Foundation and Slab,0,SY,!B155
-202,01000,202-01000,Removal of Fence,50,LF,!B156
+202,01000,202-01000,Removal of Fence,0,LF,!B156
 202,01010,202-01010,Removal Of Silt Fence,0,LF,!B157
 202,01015,202-01015,Removal of Rockfall Fence,0,LF,!B158
 202,01017,202-01017,Removal of Wire Mesh,0,SF,!B159
@@ -162,15 +162,15 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 202,01035,202-01035,Removal of Gate,0,EACH,!B162
 202,01040,202-01040,Removal of HOV Gate,0,EACH,!B163
 202,01110,202-01110,Removal of Guardrail Type 1,0,LF,!B164
-202,01130,202-01130,Removal of Guardrail Type 3,1608,LF,!B165
+202,01130,202-01130,Removal of Guardrail Type 3,0,LF,!B165
 202,01135,202-01135,Removal of Guardrail Thrie Beam,0,LF,!B166
-202,01140,202-01140,Removal of Guardrail Type 4,0,LF,!B167
+202,01140,202-01140,Removal of Guardrail Type 4,95,LF,!B167
 202,01150,202-01150,Removal of Guardrail Type 5,0,LF,!B168
-202,01170,202-01170,Removal of Guardrail Type 7,1882,LF,!B169
+202,01170,202-01170,Removal of Guardrail Type 7,0,LF,!B169
 202,01175,202-01175,Removal of Guardrail (Special),0,LF,!B170
 202,01180,202-01180,Removal of Median Barrier,0,LF,!B171
 202,01200,202-01200,Removal of Tensioned Cable Barrier,0,LF,!B172
-202,01300,202-01300,Removal of End Anchorage,3,EACH,!B173
+202,01300,202-01300,Removal of End Anchorage,0,EACH,!B173
 202,01400,202-01400,Removal of Cattle Guard,0,EACH,!B174
 202,04000,202-04000,Plug Structure,0,EACH,!B175
 202,04001,202-04001,Plug Culvert,0,EACH,!B176
@@ -211,18 +211,18 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 202,11581,202-11581,Fence (Temporary) (Special),0,LF,!B211
 203,00000,203-00000,Unclassified Excavation,0,CY,!B212
 203,00005,203-00005,Unclassified Excavation (Haul),0,CY,!B213
-203,00010,203-00010,Unclassified Excavation (Complete In Place),0,CY,!B214
+203,00010,203-00010,Unclassified Excavation (Complete In Place),656,CY,!B214
 203,00012,203-00012,Unclassified Excavation (Complete In Place) (Special),0,CY,!B215
 203,00015,203-00015,Unclassified Excavation (Haul and Compaction),0,CY,!B216
 203,00040,203-00040,Unclassified Excavation (Special),0,CY,!B217
 203,00050,203-00050,Unsuitable Material,0,CY,!B218
 203,00055,203-00055,Embankment Material (Haul),0,CY,!B219
-203,00060,203-00060,Embankment Material (Complete In Place),28644,CY,!B220
+203,00060,203-00060,Embankment Material (Complete In Place),0,CY,!B220
 203,00061,203-00061,Embankment Material (Complete In Place),0,TON,!B221
 203,00062,203-00062,Embankment Material (Complete In Place) (Special),0,CY,!B222
 203,00065,203-00065,Embankment Material (Complete In Place) (R20),0,CY,!B223
 203,00066,203-00066,Embankment Material (Complete In Place) (R40),0,CY,!B224
-203,00100,203-00100,Muck Excavation,1000,CY,!B225
+203,00100,203-00100,Muck Excavation,0,CY,!B225
 203,00105,203-00105,Muck Excavation (Haul),0,CY,!B226
 203,00112,203-00112,Muck Excavation (Haul) (Special),0,CY,!B227
 203,00200,203-00200,Borrow,0,CY,!B228
@@ -265,7 +265,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 203,01125,203-01125,Drop Hammer Compactor,0,HOUR,!B265
 203,01140,203-01140,Rolling,0,HOUR,!B266
 203,01200,203-01200,Roadway Insulation Material (2 Inch),0,SF,!B267
-203,01500,203-01500,Blading,160,HOUR,!B268
+203,01500,203-01500,Blading,40,HOUR,!B268
 203,01510,203-01510,Backhoe,0,HOUR,!B269
 203,01515,203-01515,Backhoe (Landscaping),0,HOUR,!B270
 203,01520,203-01520,Backhoe (Special),0,EACH,!B271
@@ -274,7 +274,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 203,01547,203-01547,Air Compressor (600 CFM),0,HOUR,!B274
 203,01548,203-01548,Pump,0,DAY,!B275
 203,01549,203-01549,Pump,0,HOUR,!B276
-203,01550,203-01550,Dozing,160,HOUR,!B277
+203,01550,203-01550,Dozing,0,HOUR,!B277
 203,01551,203-01551,Dozing (Heavy),0,HOUR,!B278
 203,01555,203-01555,Dozing (Landscaping),0,HOUR,!B279
 203,01560,203-01560,Scraping,0,HOUR,!B280
@@ -290,13 +290,13 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 203,01592,203-01592,Front End Loader (Special),0,HOUR,!B290
 203,01594,203-01594,Combination Loader,0,HOUR,!B291
 203,01596,203-01596,Potholing With Surveying and Stationing of U/G Utilities,0,L S,!B292
-203,01597,203-01597,Potholing,40,HOUR,!B293
+203,01597,203-01597,Potholing,80,HOUR,!B293
 203,01598,203-01598,Potholing (Special),0,EACH,!B294
 203,01600,203-01600,Crane (Crawler),0,HOUR,!B295
 203,01610,203-01610,Crane (Rubber Tire),0,HOUR,!B296
 203,01615,203-01615,Crane (Scaling),0,HOUR,!B297
 203,01620,203-01620,Sweeping,0,HOUR,!B298
-203,01622,203-01622,Sweeping (With Pickup Broom),300,HOUR,!B299
+203,01622,203-01622,Sweeping (With Pickup Broom),0,HOUR,!B299
 203,01625,203-01625,Hydraulic Excavator Scaling,0,HOUR,!B300
 203,01700,203-01700,Transport,0,HOUR,!B301
 203,02000,203-02000,Drilling and Blasting,0,LF,!B302
@@ -313,25 +313,25 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 203,62340,203-62340,Salaried Foreman and Pickup,0,HOUR,!B313
 204,00000,204-00000,Haul,0,YM,!B314
 204,00010,204-00010,Haul,0,TM,!B315
-206,00000,206-00000,Structure Excavation,624,CY,!B316
+206,00000,206-00000,Structure Excavation,0,CY,!B316
 206,00010,206-00010,Structure Excavation (Special),0,CY,!B317
 206,00050,206-00050,Structure Backfill (Special),0,CY,!B318
 206,00060,206-00060,Structure Backfill (Special) (Flow-Fill),0,CY,!B319
 206,00065,206-00065,Structure Backfill (Flow-Fill),0,CY,!B320
 206,00066,206-00066,Structure Backfill (Flowable Fly Ash),0,CY,!B321
 206,00070,206-00070,Structure Backfill (Controlled Low Strength Materials),0,CY,!B322
-206,00100,206-00100,Structure Backfill (Class 1),2788,CY,!B323
+206,00100,206-00100,Structure Backfill (Class 1),0,CY,!B323
 206,00105,206-00105,Cement Treated Base,0,CY,!B324
-206,00200,206-00200,Structure Backfill (Class 2),1355,CY,!B325
+206,00200,206-00200,Structure Backfill (Class 2),0,CY,!B325
 206,00310,206-00310,Structure Backfill (Reinforced Earth Wall),0,CY,!B326
 206,00315,206-00315,Structure Backfill (Mechanically Stabilized Earth Wall),0,CY,!B327
 206,00320,206-00320,Structure Backfill (Concrete Retaining Wall),0,CY,!B328
 206,00325,206-00325,Structure Backfill (Mechanically Stabilized Earth Fill),0,CY,!B329
 206,00350,206-00350,Structure Backfill (Mechanically Stabilized Earth),0,CY,!B330
-206,00360,206-00360,Mechanical Reinforcement of Soil,2579,CY,!B331
+206,00360,206-00360,Mechanical Reinforcement of Soil,0,CY,!B331
 206,00505,206-00505,Filter Material (Special),0,CY,!B332
 206,00507,206-00507,Filter Material (Porous Concrete),0,CY,!B333
-206,00510,206-00510,Filter Material (Class A),384,CY,!B334
+206,00510,206-00510,Filter Material (Class A),0,CY,!B334
 206,00520,206-00520,Filter Material (Class B),0,CY,!B335
 206,00530,206-00530,Filter Material (Class C),0,CY,!B336
 206,00590,206-00590,Filter Material (Porous Concrete),0,CY,!B337
@@ -370,8 +370,8 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 206,01721,206-01721,Temporary Excavation Support (Area 21),0,L S,!B370
 206,01722,206-01722,Temporary Excavation Support (Area 22),0,L S,!B371
 206,01750,206-01750,Shoring,0,L S,!B372
-206,01781,206-01781,Shoring (Area 1),1,L S,!B373
-206,01782,206-01782,Shoring (Area 2),1,L S,!B374
+206,01781,206-01781,Shoring (Area 1),0,L S,!B373
+206,01782,206-01782,Shoring (Area 2),0,L S,!B374
 206,01783,206-01783,Shoring (Area 3),0,L S,!B375
 206,01784,206-01784,Shoring (Area 4),0,L S,!B376
 206,01785,206-01785,Shoring (Area 5),0,L S,!B377
@@ -385,7 +385,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 206,01793,206-01793,Shoring (Area 13),0,L S,!B385
 206,01794,206-01794,Shoring (Area 14),0,L S,!B386
 206,01795,206-01795,Shoring (Area 15),0,L S,!B387
-207,00205,207-00205,Topsoil,2300,CY,!B388
+207,00205,207-00205,Topsoil,35,CY,!B388
 207,00210,207-00210,Stockpile Topsoil,0,CY,!B389
 207,00305,207-00305,Wetland Topsoil,0,CY,!B390
 207,00310,207-00310,Stockpile Wetland Topsoil,0,CY,!B391
@@ -393,14 +393,14 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 207,01110,207-01110,Planter Soil Mix,0,CY,!B393
 208,00000,208-00000,Ditch Guard,0,LF,!B394
 208,00001,208-00001,Silt Dike,0,LF,!B395
-208,00002,208-00002,Erosion Log Type 1 (12 Inch),4800,LF,!B396
+208,00002,208-00002,Erosion Log Type 1 (12 Inch),0,LF,!B396
 208,00003,208-00003,Erosion Log (18 Inch),0,LF,!B397
 208,00004,208-00004,Silt Berm,0,LF,!B398
 208,00005,208-00005,Erosion Log,0,LF,!B399
 208,00006,208-00006,Erosion Log (Special),0,LF,!B400
 208,00007,208-00007,Erosion Log Type 2 (8 Inch),0,LF,!B401
 208,00008,208-00008,Erosion Log Type 2 (12 Inch),0,LF,!B402
-208,00009,208-00009,Erosion Log Type 2 (18 Inch),770,LF,!B403
+208,00009,208-00009,Erosion Log Type 2 (18 Inch),0,LF,!B403
 208,00010,208-00010,Erosion Bales,0,EACH,!B404
 208,00011,208-00011,Erosion Bales (Weed Free),0,EACH,!B405
 208,00012,208-00012,Erosion Log Type 1 (9 Inch),0,LF,!B406
@@ -408,8 +408,8 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 208,00015,208-00015,Sand Bag,0,EACH,!B408
 208,00018,208-00018,Gravel Bag,0,LF,!B409
 208,00019,208-00019,Silt Fence (Reinforced)(Special),0,LF,!B410
-208,00020,208-00020,Silt Fence,4200,LF,!B411
-208,00021,208-00021,Silt Fence (Reinforced),1120,LF,!B412
+208,00020,208-00020,Silt Fence,800,LF,!B411
+208,00021,208-00021,Silt Fence (Reinforced),0,LF,!B412
 208,00022,208-00022,Erosion Log (Type 3)(9 Inch),0,LF,!B413
 208,00023,208-00023,Erosion Log (Type 3)(12 Inch),0,LF,!B414
 208,00024,208-00024,Erosion Log (Type 3)(20 Inch),0,LF,!B415
@@ -417,35 +417,35 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 208,00026,208-00026,Coir Roll,0,LF,!B417
 208,00030,208-00030,Sediment Basin,0,EACH,!B418
 208,00033,208-00033,Sediment Trap,0,EACH,!B419
-208,00034,208-00034,Gravel Bag,100,LF,!B420
+208,00034,208-00034,Gravel Bag,0,LF,!B420
 208,00035,208-00035,Aggregate Bag,0,LF,!B421
 208,00036,208-00036,Aggregate Bag (Special),0,LF,!B422
-208,00040,208-00040,Check Dam,0,EACH,!B423
+208,00040,208-00040,Check Dam,2,EACH,!B423
 208,00041,208-00041,Rock Check Dam,0,EACH,!B424
-208,00045,208-00045,Concrete Washout Structure,6,EACH,!B425
+208,00045,208-00045,Concrete Washout Structure,2,EACH,!B425
 208,00046,208-00046,Pre-fabricated Concrete Washout Structure,0,EACH,!B426
-208,00050,208-00050,Storm Drain Inlet Protection,13,EACH,!B427
-208,00051,208-00051,Storm Drain Inlet Protection (Type I),0,LF,!B428
+208,00050,208-00050,Storm Drain Inlet Protection,0,EACH,!B427
+208,00051,208-00051,Storm Drain Inlet Protection (Type I),30,LF,!B428
 208,00052,208-00052,Storm Drain Inlet Protection (Type II),0,LF,!B429
 208,00053,208-00053,Storm Drain Inlet Protection (Type I),0,EACH,!B430
 208,00054,208-00054,Storm Drain Inlet Protection (Type II),0,EACH,!B431
 208,00055,208-00055,Rigid Inlet Protection Device,0,EACH,!B432
 208,00056,208-00056,Storm Drain Inlet Protection (Type III),0,EACH,!B433
 208,00060,208-00060,Temporary Slope Drain,0,LF,!B434
-208,00070,208-00070,Vehicle Tracking Pad,6,EACH,!B435
+208,00070,208-00070,Vehicle Tracking Pad,1,EACH,!B435
 208,00071,208-00071,Maintenance Aggregate (Vehicle Tracking Pad),0,CY,!B436
 208,00075,208-00075,Pre-fabricated Vehicle Tracking Pad,0,EACH,!B437
 208,00100,208-00100,Sediment Removal and Disposal,0,L S,!B438
 208,00101,208-00101,Sediment Removal and Disposal,0,HOUR,!B439
-208,00103,208-00103,Removal and Disposal of Sediment (Labor),160,HOUR,!B440
-208,00105,208-00105,Removal and Disposal of Sediment (Equipment),160,HOUR,!B441
+208,00103,208-00103,Removal and Disposal of Sediment (Labor),0,HOUR,!B440
+208,00105,208-00105,Removal and Disposal of Sediment (Equipment),0,HOUR,!B441
 208,00106,208-00106,Sweeping (Sediment Removal),0,HOUR,!B442
 208,00107,208-00107,Removal of Trash,0,HOUR,!B443
 208,00110,208-00110,Sediment Removal and Disposal,0,CY,!B444
 208,00120,208-00120,Sediment Removal and Disposal,0,EACH,!B445
 208,00200,208-00200,Erosion Control Supervisor,0,L S,!B446
-208,00205,208-00205,Erosion Control Supervisor,0,HOUR,!B447
-208,00206,208-00206,Erosion Control Supervisor,390,DAY,!B448
+208,00205,208-00205,Erosion Control Supervisor,80,HOUR,!B447
+208,00206,208-00206,Erosion Control Supervisor,0,DAY,!B448
 208,00207,208-00207,Erosion Control Management,0,DAY,!B449
 208,00220,208-00220,Best Management Practices Construction (Special),0,DOL,!B450
 208,00300,208-00300,Temporary Berms,0,LF,!B451
@@ -463,14 +463,14 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 208,00520,208-00520,Temporary Stream Crossing,0,L S,!B463
 209,00000,209-00000,Water,0,MGAL,!B464
 209,00050,209-00050,Water,0,MGAL,!B465
-209,00100,209-00100,Water (Landscaping),36,MGAL,!B466
-209,00200,209-00200,Time-Released Water Product,1452,EACH,!B467
+209,00100,209-00100,Water (Landscaping),0,MGAL,!B466
+209,00200,209-00200,Time-Released Water Product,0,EACH,!B467
 209,00300,209-00300,Water Treat Processing (Tunnel),0,MGAL,!B468
 209,00500,209-00500,Hydroscaling,0,MGAL,!B469
 209,00600,209-00600,Dust Palliative (Magnesium Chloride),0,GAL,!B470
 209,00601,209-00601,Dust Palliative (Magnesium Chloride),0,MGAL,!B471
 209,00605,209-00605,Dust Palliative (Magnesium Chloride)(Special),0,GAL,!B472
-210,00001,210-00001,Reset Structure,0,EACH,!B473
+210,00001,210-00001,Reset Structure,1,EACH,!B473
 210,00005,210-00005,Reset Curb,0,LF,!B474
 210,00007,210-00007,Reset Wheel Stop,0,EACH,!B475
 210,00010,210-00010,Reset Mailbox Structure,0,EACH,!B476
@@ -540,8 +540,8 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 210,00807,210-00807,Reset Over Height Vehicle Blankout Sign,0,EACH,!B540
 210,00808,210-00808,Reset Overpass Mounted Sign Bracket,0,EACH,!B541
 210,00809,210-00809,Reset Blankout Sign (Fiber Optic),0,EACH,!B542
-210,00810,210-00810,Reset Ground Sign,7,EACH,!B543
-210,00815,210-00815,Reset Sign Panel,2,EACH,!B544
+210,00810,210-00810,Reset Ground Sign,0,EACH,!B543
+210,00815,210-00815,Reset Sign Panel,7,EACH,!B544
 210,00816,210-00816,Reset Sign Panel (Special),0,EACH,!B545
 210,00820,210-00820,Reset Variable Message Sign,0,EACH,!B546
 210,00822,210-00822,Portable Message Sign Panel (Reset),0,EACH,!B547
@@ -562,7 +562,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 210,00865,210-00865,Reset Pedestrian Signal Head,0,EACH,!B562
 210,00866,210-00866,Reset Fire Preemption Unit and Timer,0,EACH,!B563
 210,00867,210-00867,Reset Fire Preemption Unit,0,EACH,!B564
-210,00870,210-00870,Reset Coordination Unit,0,EACH,!B565
+210,00870,210-00870,Reset Coordination Unit,1,EACH,!B565
 210,00873,210-00873,Reset Tone Decoder,0,EACH,!B566
 210,00875,210-00875,Reset Surface Condition Analyser,0,EACH,!B567
 210,00880,210-00880,Reset Traffic Signal Vehicle Detector Amplifier,0,EACH,!B568
@@ -586,7 +586,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 210,01132,210-01132,Reset Guardrail Type 3 (Special)(1 Foot),0,LF,!B586
 210,01135,210-01135,Reset Guardrail Thrie Beam,0,LF,!B587
 210,01136,210-01136,Reset Guardrail Type 3 (Double),0,LF,!B588
-210,01140,210-01140,Reset Guardrail Type 4,0,LF,!B589
+210,01140,210-01140,Reset Guardrail Type 4,100,LF,!B589
 210,01150,210-01150,Reset Guardrail Type 5,0,LF,!B590
 210,01160,210-01160,Reset Guardrail Type 6,0,LF,!B591
 210,01170,210-01170,Reset Guardrail Type 7,0,LF,!B592
@@ -639,7 +639,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 210,02510,210-02510,Relay Sprinkler System,0,L S,!B639
 210,02700,210-02700,Relay Cable,0,LF,!B640
 210,02800,210-02800,Relay Sidewalk,0,SY,!B641
-210,02900,210-02900,Relay Riprap,476,CY,!B642
+210,02900,210-02900,Relay Riprap,0,CY,!B642
 210,03000,210-03000,Rebuild Cattle Guard,0,EACH,!B643
 210,03100,210-03100,Replace Concrete Pavement,0,SY,!B644
 210,04000,210-04000,Adjust Structure,0,EACH,!B645
@@ -818,7 +818,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 211,05002,211-05002,Crack Preparation (Type 2),0,LF,!B818
 211,05003,211-05003,Crack Preparation (Type 3),0,LF,!B819
 212,00005,212-00005,Seeding (Native),0,LB,!B820
-212,00006,212-00006,Seeding (Native),13,ACRE,!B821
+212,00006,212-00006,Seeding (Native),0,ACRE,!B821
 212,00007,212-00007,Seeding (Native) (Hydraulic),0,ACRE,!B822
 212,00009,212-00009,Seeding (Temporary),0,ACRE,!B823
 212,00010,212-00010,Seeding (Lawn),0,LB,!B824
@@ -832,7 +832,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 212,00028,212-00028,Seeding (Wetlands),0,ACRE,!B832
 212,00030,212-00030,Fertilizer (Available N),0,LB,!B833
 212,00031,212-00031,Fertilizer (Available P),0,LB,!B834
-212,00032,212-00032,Soil Conditioning,13,ACRE,!B835
+212,00032,212-00032,Soil Conditioning,0,ACRE,!B835
 212,00040,212-00040,Soil Preparation (Lawn),0,ACRE,!B836
 212,00043,212-00043,Soil Preparation (Native),0,ACRE,!B837
 212,00045,212-00045,Soil Preparation (Sod),0,SF,!B838
@@ -848,7 +848,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 212,01200,212-01200,Landscape Restoration,0,L S,!B848
 213,00000,213-00000,Mulching,0,ACRE,!B849
 213,00001,213-00001,Mulching,0,TON,!B850
-213,00002,213-00002,Mulching (Weed Free Hay),13,ACRE,!B851
+213,00002,213-00002,Mulching (Weed Free Hay),0,ACRE,!B851
 213,00003,213-00003,Mulching (Weed Free),0,ACRE,!B852
 213,00004,213-00004,Mulching (Weed Free Straw),0,ACRE,!B853
 213,00005,213-00005,Mulching (Decorative),0,CF,!B854
@@ -865,12 +865,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 213,00035,213-00035,Soil Retention Blanket (Plastic),0,SY,!B865
 213,00040,213-00040,Soil Retention Mat (Cellular),0,SY,!B866
 213,00050,213-00050,Soil Retention Grid,0,SY,!B867
-213,00061,213-00061,Mulch Tackifier,1340,LB,!B868
+213,00061,213-00061,Mulch Tackifier,0,LB,!B868
 213,00065,213-00065,Inorganic Mulch,0,CY,!B869
 213,00067,213-00067,Rock Mulch (Weed Free),0,SF,!B870
 213,00070,213-00070,Landscape Weed Barrier Fabric,0,SY,!B871
 213,00071,213-00071,Vegetation Control Mat,0,SY,!B872
-213,00100,213-00100,Soil Binder,13,ACRE,!B873
+213,00100,213-00100,Soil Binder,0,ACRE,!B873
 213,00150,213-00150,Bonded Fiber Matrix,0,ACRE,!B874
 213,00151,213-00151,Bonded Fiber Matrix,0,LB,!B875
 213,00212,213-00212,12 Inch Root Barrier,0,LF,!B876
@@ -892,7 +892,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 213,00705,213-00705,Landscape Boulder (Special),0,EACH,!B892
 213,00800,213-00800,Brush Fill,0,CY,!B893
 213,01000,213-01000,Erosion Bales,0,EACH,!B894
-214,00000,214-00000,Landscape Maintenance,1,L S,!B895
+214,00000,214-00000,Landscape Maintenance,0,L S,!B895
 214,00005,214-00005,Landscape Maintenance (24 Month),0,L S,!B896
 214,00010,214-00010,Temporary Irrigation,0,L S,!B897
 214,00100,214-00100,Planter Soil Mix,0,CY,!B898
@@ -918,7 +918,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 214,00210,214-00210,Deciduous Tree (1 Inch Caliper),0,EACH,!B918
 214,00215,214-00215,Deciduous Tree (1.5 Inch Caliper),0,EACH,!B919
 214,00217,214-00217,Deciduous Tree (1.5 Inch Caliper) (Furnish Only),0,EACH,!B920
-214,00220,214-00220,Deciduous Tree (2 Inch Caliper),33,EACH,!B921
+214,00220,214-00220,Deciduous Tree (2 Inch Caliper),0,EACH,!B921
 214,00222,214-00222,Deciduous Tree (2 Inch Caliper) (Furnish Only),0,EACH,!B922
 214,00225,214-00225,Deciduous Tree (2.5 Inch Caliper),0,EACH,!B923
 214,00227,214-00227,Deciduous Tree (2.5 Inch Caliper) (Furnish Only),0,EACH,!B924
@@ -1479,7 +1479,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 216,00037,216-00037,Soil Retention Blanket (Coconut),0,SY,!B1479
 216,00039,216-00039,Soil Retention Blanket (Straw),0,SY,!B1480
 216,00041,216-00041,Soil Retention Blanket (Straw/Coconut),0,SY,!B1481
-216,00042,216-00042,Soil Retention Blanket (Biodegradable Straw/Coconut),19160,SY,!B1482
+216,00042,216-00042,Soil Retention Blanket (Biodegradable Straw/Coconut),0,SY,!B1482
 216,00045,216-00045,Soil Retention Mat (Cellular),0,SY,!B1483
 216,00047,216-00047,Soil Wrap (Coir and Jute),0,SY,!B1484
 216,00050,216-00050,Soil Retention Grid,0,SY,!B1485
@@ -1505,16 +1505,16 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 217,00000,217-00000,Herbicide Treatment,0,SY,!B1505
 217,00010,217-00010,Pre-Emergent Herbicide,0,SY,!B1506
 217,00015,217-00015,Noxious Weed Management,0,SY,!B1507
-217,00020,217-00020,Herbicide Treatment,300,HOUR,!B1508
+217,00020,217-00020,Herbicide Treatment,0,HOUR,!B1508
 217,00100,217-00100,Root Control Fabric,0,LF,!B1509
 218,00000,218-00000,Noxious Weed Management,0,L S,!B1510
-240,00000,240-00000,Wildlife Biologist,20,HOUR,!B1511
+240,00000,240-00000,Wildlife Biologist,0,HOUR,!B1511
 240,00001,240-00001,Wildlife Biologist,0,DAY,!B1512
 240,00010,240-00010,Removal of Nests,0,HOUR,!B1513
 240,00015,240-00015,Protection of Migratory Birds,0,HOUR,!B1514
 240,00017,240-00017,Protection of Migratory Birds,0,L S,!B1515
 240,00020,240-00020,Netting,0,SY,!B1516
-240,00100,240-00100,Prairie Dog Management,1,L S,!B1517
+240,00100,240-00100,Prairie Dog Management,0,L S,!B1517
 250,00010,250-00010,Environmental Health and Safety Management,0,L S,!B1518
 250,00050,250-00050,Monitoring Technician,0,HOUR,!B1519
 250,00100,250-00100,Environmental Health and Safety,0,L S,!B1520
@@ -1610,7 +1610,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 304,05000,304-05000,Aggregate Base Course (Class 5),0,TON,!B1610
 304,05006,304-05006,Aggregate Base Course (Class 5)(Special),0,SY,!B1611
 304,05009,304-05009,Aggregate Base Course (Class 5)(Special),0,TON,!B1612
-304,06000,304-06000,Aggregate Base Course (Class 6),8204,TON,!B1613
+304,06000,304-06000,Aggregate Base Course (Class 6),291,TON,!B1613
 304,06001,304-06001,Aggregate Base Course (Class 6) (Cement),0,TON,!B1614
 304,06002,304-06002,Aggregate Base Course (Class 6) (Hydrated Lime),0,TON,!B1615
 304,06003,304-06003,Aggregate Base Course (Class 6) (Limestone Dust),0,TON,!B1616
@@ -1698,10 +1698,10 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 403,00080,403-00080,Hot Bituminous Pavement (Recycled) (Haul),0,TON,!B1698
 403,00110,403-00110,Hot Bituminous Pavement (Aggregate From Stockpile) (Haul),0,TON,!B1699
 403,00120,403-00120,Hot Bituminous Pavement (Aggregate From Stockpile) (Haul and,0,TON,!B1700
-403,00720,403-00720,Hot Mix Asphalt (Patching) (Asphalt),250,TON,!B1701
+403,00720,403-00720,Hot Mix Asphalt (Patching) (Asphalt),19,TON,!B1701
 403,00721,403-00721,Hot Mix Asphalt (Patching) (Asphalt),0,SY,!B1702
 403,00722,403-00722,Hot Mix Asphalt (Patching)(Asphalt)(Special),0,LF,!B1703
-403,00800,403-00800,Emergency Pothole Repair,20,TON,!B1704
+403,00800,403-00800,Emergency Pothole Repair,0,TON,!B1704
 403,01000,403-01000,Hot Mix Asphalt (Asphalt) (3 Year Warranty),0,TON,!B1705
 403,01001,403-01001,Hot Mix Asphalt 3 Year Warranty,0,L S,!B1706
 403,01010,403-01010,Hot Mix Asphalt (Asphalt) (5 Year Warranty),0,TON,!B1707
@@ -1775,7 +1775,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 403,09126,403-09126,Stone Mastic Asphalt (Asphalt) (Polymer Modified),0,TON,!B1775
 403,09210,403-09210,Stone Matrix Asphalt,0,TON,!B1776
 403,09211,403-09211,Stone Matrix Asphalt,0,SY,!B1777
-403,09221,403-09221,Stone Matrix Asphalt (Fibers)(Asphalt),4488,TON,!B1778
+403,09221,403-09221,Stone Matrix Asphalt (Fibers)(Asphalt),0,TON,!B1778
 403,09226,403-09226,Stone Matrix Asphalt (Asphalt)(Polymer Modified),0,TON,!B1779
 403,09500,403-09500,Furnish Hot Mix Asphalt,0,TON,!B1780
 403,09551,403-09551,Place Hot Mix Asphalt,0,HOUR,!B1781
@@ -1937,7 +1937,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 403,33811,403-33811,Hot Bituminous Pavement (Grading S) (100) (PG 58-22),0,TON,!B1937
 403,33821,403-33821,Hot Mix Asphalt (Grading S) (100) (PG 58-28),0,TON,!B1938
 403,33831,403-33831,Hot Mix Asphalt (Grading S) (100) (PG 58-34),0,TON,!B1939
-403,33841,403-33841,Hot Mix Asphalt (Grading S) (100) (PG 64-22),10027,TON,!B1940
+403,33841,403-33841,Hot Mix Asphalt (Grading S) (100) (PG 64-22),438,TON,!B1940
 403,33842,403-33842,Hot Mix Asphalt (Grading S) (100) (PG 64-22),0,SY,!B1941
 403,33851,403-33851,Hot Mix Asphalt (Grading S) (100) (PG 64-28),0,TON,!B1942
 403,33861,403-33861,Hot Bituminous Pavement (Grading S) (100) (PG 70-28),0,TON,!B1943
@@ -2190,7 +2190,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 411,10252,411-10252,Emulsified Asphalt (CSS-1P),0,GAL,!B2190
 411,10253,411-10253,Emulsified Asphalt (CSS-1H),0,GAL,!B2191
 411,10254,411-10254,Emulsified Asphalt (CSS-1H) (Modified),0,GAL,!B2192
-411,10255,411-10255,Emulsified Asphalt (Slow-Setting),3446,GAL,!B2193
+411,10255,411-10255,Emulsified Asphalt (Slow-Setting),88,GAL,!B2193
 411,10258,411-10258,Emulsified Asphalt (Rapid-Setting)(Polymerized),0,TON,!B2194
 411,10259,411-10259,Emulsified Asphalt (Medium-Setting)(Polymerized),0,TON,!B2195
 411,10260,411-10260,Emulsified Asphalt (Rapid-Setting) (Polymerized),0,GAL,!B2196
@@ -2201,7 +2201,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 411,10276,411-10276,Emulsified Asphalt (HFMS-2SP) (High Float) (Polymerized),0,GAL,!B2201
 411,10277,411-10277,Emulsified Asphalt (HFMS-2HP) (High Float),0,GAL,!B2202
 411,10280,411-10280,Emulsified Asphalt (HFMS-80SC) (High Float),0,GAL,!B2203
-411,10300,411-10300,Emulsified Asphalt (Prime Coat),932,GAL,!B2204
+411,10300,411-10300,Emulsified Asphalt (Prime Coat),0,GAL,!B2204
 411,10375,411-10375,Emulsified Asphalt (HFRS-2P) (High Float) (Polymerized),0,GAL,!B2205
 411,10500,411-10500,Cold Paving Emulsion,0,TON,!B2206
 411,20000,411-20000,Asphaltic Felt Paper (30 lb.),0,SY,!B2207
@@ -2343,12 +2343,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 420,00000,420-00000,Geomembrane,0,SY,!B2343
 420,00100,420-00100,Geotextile (Erosion Control) (Class A),0,SY,!B2344
 420,00101,420-00101,Geotextile (Erosion Control) (Class B),0,SY,!B2345
-420,00102,420-00102,Geotextile (Erosion Control) (Class 1),1254,SY,!B2346
+420,00102,420-00102,Geotextile (Erosion Control) (Class 1),0,SY,!B2346
 420,00103,420-00103,Geotextile (Erosion Control) (Class 2),0,SY,!B2347
 420,00104,420-00104,Geotextile (Erosion Control) (Class 3),0,SY,!B2348
 420,00110,420-00110,Geotextile (Drainage) (Class A),0,SY,!B2349
 420,00111,420-00111,Geotextile (Drainage) (Class B),0,SY,!B2350
-420,00112,420-00112,Geotextile (Drainage) (Class 1),2840,SY,!B2351
+420,00112,420-00112,Geotextile (Drainage) (Class 1),0,SY,!B2351
 420,00113,420-00113,Geotextile (Drainage) (Class 2),0,SY,!B2352
 420,00114,420-00114,Geotextile (Drainage) (Class 3),0,SY,!B2353
 420,00120,420-00120,Silt Fence,0,LF,!B2354
@@ -2361,7 +2361,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 420,00200,420-00200,Geotextile (Weed Barrier),0,SY,!B2361
 420,00201,420-00201,Geotextile (Weed Barrier) (Special),0,SY,!B2362
 420,00300,420-00300,Geotextile (Reinforcement),0,SY,!B2363
-420,00400,420-00400,Media Filter Drain (MFD) mix (Type 1),328,CY,!B2364
+420,00400,420-00400,Media Filter Drain (MFD) mix (Type 1),0,CY,!B2364
 420,00500,420-00500,Geotextile (Paving),0,SY,!B2365
 420,00505,420-00505,Geotextile (Paving) (Special),0,SY,!B2366
 420,00510,420-00510,Geotextile (Crack Reduction) (High Density),0,SY,!B2367
@@ -2381,7 +2381,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 502,00215,502-00215,Drive Piling,0,L S,!B2381
 502,00400,502-00400,End Plate,0,EACH,!B2382
 502,00450,502-00450,Reinforcing Tip,0,EACH,!B2383
-502,00460,502-00460,Pile Tip,46,EACH,!B2384
+502,00460,502-00460,Pile Tip,0,EACH,!B2384
 502,00500,502-00500,Complete Join Penetration (CJP) Splice,0,EACH,!B2385
 502,01000,502-01000,Bitumen Coating,0,LF,!B2386
 502,01100,502-01100,Retapping,0,EACH,!B2387
@@ -2403,7 +2403,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 502,11057,502-11057,Steel Piling (HP 10x57),0,LF,!B2403
 502,11253,502-11253,Steel Piling (HP 12x53),0,LF,!B2404
 502,11263,502-11263,Steel Piling (HP 12x63),0,LF,!B2405
-502,11274,502-11274,Steel Piling (HP 12x74),1351,LF,!B2406
+502,11274,502-11274,Steel Piling (HP 12x74),0,LF,!B2406
 502,11275,502-11275,Steel Piling (HP 12X74) (Install Only),0,LF,!B2407
 502,11284,502-11284,Steel Piling (HP 12x84),0,LF,!B2408
 502,11473,502-11473,Steel Piling (HP 14x73),0,LF,!B2409
@@ -2421,13 +2421,13 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 503,00024,503-00024,Drilled Caisson (24 Inch),0,LF,!B2421
 503,00025,503-00025,Drilled Caisson (24 Inch)(Special),0,LF,!B2422
 503,00030,503-00030,Drilled Caisson (30 Inch),0,LF,!B2423
-503,00036,503-00036,Drilled Caisson (36 Inch),0,LF,!B2424
+503,00036,503-00036,Drilled Caisson (36 Inch),76,LF,!B2424
 503,00037,503-00037,Drilled Caisson (36 Inch)(Special),0,LF,!B2425
 503,00042,503-00042,Drilled Caisson (42 Inch),0,LF,!B2426
 503,00043,503-00043,Drilled Caisson (43 Inch),0,LF,!B2427
-503,00048,503-00048,Drilled Caisson (48 Inch),49,LF,!B2428
+503,00048,503-00048,Drilled Caisson (48 Inch),42,LF,!B2428
 503,00049,503-00049,Drilled Caisson (1222 mm),0,M,!B2429
-503,00054,503-00054,Drilled Caisson (54 Inch),541,LF,!B2430
+503,00054,503-00054,Drilled Caisson (54 Inch),42,LF,!B2430
 503,00055,503-00055,Drilled Caisson (54 Inch)(Special),0,LF,!B2431
 503,00060,503-00060,Drilled Caisson (60 Inch),0,LF,!B2432
 503,00066,503-00066,Drilled Caisson (66 Inch),0,LF,!B2433
@@ -2601,10 +2601,10 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 506,00120,506-00120,Place Riprap (Gabions),0,CY,!B2601
 506,00206,506-00206,Riprap (6 Inch),0,CY,!B2602
 506,00207,506-00207,Rip Rap (6 Inch),0,TON,!B2603
-506,00209,506-00209,Riprap (9 Inch),318,CY,!B2604
+506,00209,506-00209,Riprap (9 Inch),0,CY,!B2604
 506,00210,506-00210,Riprap (9 Inch),0,TON,!B2605
-506,00212,506-00212,Riprap (12 Inch),334,CY,!B2606
-506,00218,506-00218,Riprap (18 Inch),1847,CY,!B2607
+506,00212,506-00212,Riprap (12 Inch),0,CY,!B2606
+506,00218,506-00218,Riprap (18 Inch),0,CY,!B2607
 506,00222,506-00222,Riprap (18 Inch) (Special) (CIP),0,CY,!B2608
 506,00224,506-00224,Riprap (24 Inch),0,CY,!B2609
 506,00225,506-00225,Riprap (24 Inch) (Special),0,CY,!B2610
@@ -2853,7 +2853,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 514,02100,514-02100,Install Panel Restraining Tubing,0,LF,!B2853
 514,02150,514-02150,Install Anchor Bolt,0,EACH,!B2854
 514,03411,514-03411,Retaining Wall (1) (Alternative Systems),0,SF,!B2855
-515,00120,515-00120,Waterproofing (Membrane),6561,SY,!B2856
+515,00120,515-00120,Waterproofing (Membrane),0,SY,!B2856
 515,00121,515-00121,Waterproofing (Membrane),0,LF,!B2857
 515,00122,515-00122,Waterproofing (Membrane)(Special),0,SY,!B2858
 515,00200,515-00200,Waterproofing (Duct Floor),0,SY,!B2859
@@ -2881,7 +2881,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 518,01001,518-01001,Bridge Expansion Joint (Asphaltic Plug),0,LF,!B2881
 518,01002,518-01002,Bridge Expansion Device (0-2 Inch),0,LF,!B2882
 518,01003,518-01003,Bridge Expansion Device (0-3 Inch),0,LF,!B2883
-518,01004,518-01004,Bridge Expansion Device (0-4 Inch),343,LF,!B2884
+518,01004,518-01004,Bridge Expansion Device (0-4 Inch),0,LF,!B2884
 518,01005,518-01005,Bridge Expansion Device (0-4 Inch)(with Snow Plow Plates),0,LF,!B2885
 518,01006,518-01006,Bridge Expansion Device (0-6 Inch),0,LF,!B2886
 518,01009,518-01009,Bridge Expansion Device (0-9 Inch),0,LF,!B2887
@@ -2968,10 +2968,10 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 601,03025,601-03025,Concrete Class D (Miscellaneous) (Colored),0,CY,!B2968
 601,03027,601-03027,Concrete Class D (Special),0,CY,!B2969
 601,03030,601-03030,Concrete Class D (Box Culvert),0,CY,!B2970
-601,03040,601-03040,Concrete Class D (Bridge),2404,CY,!B2971
+601,03040,601-03040,Concrete Class D (Bridge),0,CY,!B2971
 601,03041,601-03041,Concrete Class D (Bridge) (Special),0,CY,!B2972
 601,03045,601-03045,Concrete Class D (Bridge) (Colored),0,CY,!B2973
-601,03050,601-03050,Concrete Class D (Wall),22,CY,!B2974
+601,03050,601-03050,Concrete Class D (Wall),0,CY,!B2974
 601,03052,601-03052,Concrete Class D (Wall) (Colored),0,CY,!B2975
 601,03055,601-03055,Concrete Class D (Wall) (Special),0,CY,!B2976
 601,03057,601-03057,Concrete Class DR,0,CY,!B2977
@@ -3119,7 +3119,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 601,40300,601-40300,Structural Concrete Coating,0,SY,!B3119
 601,40301,601-40301,Structural Concrete Coating,0,SF,!B3120
 601,40302,601-40302,Structural Concrete Coating (Anti-Graffiti),0,SF,!B3121
-601,40400,601-40400,Structural Concrete Stain,2689,SY,!B3122
+601,40400,601-40400,Structural Concrete Stain,0,SY,!B3122
 601,40401,601-40401,Structural Concrete Stain,0,SF,!B3123
 601,40410,601-40410,Environmental Concrete Stain,0,SF,!B3124
 601,40500,601-40500,Epoxy Coating,0,SY,!B3125
@@ -3130,10 +3130,10 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 601,51000,601-51000,Galvanic Anodes,0,L S,!B3130
 601,51005,601-51005,Galvanic Anodes,0,EACH,!B3131
 601,51007,601-51007,Galvanic Anodes (Install Only),0,EACH,!B3132
-602,00000,602-00000,Reinforcing Steel,42365,LB,!B3133
+602,00000,602-00000,Reinforcing Steel,0,LB,!B3133
 602,00010,602-00010,Reinforcing Steel (Galvanized),0,LB,!B3134
 602,00011,602-00011,Reinforcing Steel (High Performance),0,LB,!B3135
-602,00020,602-00020,Reinforcing Steel (Epoxy Coated),580592,LB,!B3136
+602,00020,602-00020,Reinforcing Steel (Epoxy Coated),0,LB,!B3136
 602,00025,602-00025,Reinforcing Steel (Stainless),0,LB,!B3137
 602,00026,602-00026,Reinforcing Steel (Final Lining)(Footing)(Epoxy Coated),0,LB,!B3138
 602,00027,602-00027,Reinforcing Steel (Final Lining)(Walls and Arch),0,LB,!B3139
@@ -3205,12 +3205,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 603,01150,603-01150,15 Inch Reinforced Concrete Pipe,0,LF,!B3205
 603,01155,603-01155,15 Inch Reinforced Concrete Pipe (Complete In Place),0,LF,!B3206
 603,01180,603-01180,18 Inch Reinforced Concrete Pipe,0,LF,!B3207
-603,01185,603-01185,18 Inch Reinforced Concrete Pipe (Complete In Place),1331,LF,!B3208
+603,01185,603-01185,18 Inch Reinforced Concrete Pipe (Complete In Place),0,LF,!B3208
 603,01186,603-01186,18 Inch Reinforced Concrete Pipe (Complete In Place)(Install,0,LF,!B3209
 603,01210,603-01210,21 Inch Reinforced Concrete Pipe,0,LF,!B3210
 603,01215,603-01215,21 Inch Reinforced Concrete Pipe (Complete In Place),0,LF,!B3211
 603,01240,603-01240,24 Inch Reinforced Concrete Pipe,0,LF,!B3212
-603,01245,603-01245,24 Inch Reinforced Concrete Pipe (Complete In Place),146,LF,!B3213
+603,01245,603-01245,24 Inch Reinforced Concrete Pipe (Complete In Place),0,LF,!B3213
 603,01246,603-01246,24 Inch Reinforced Concrete Pipe (Complete In Place)(Install,0,LF,!B3214
 603,01270,603-01270,27 Inch Reinforced Concrete Pipe,0,LF,!B3215
 603,01275,603-01275,27 Inch Reinforced Concrete Pipe (Complete In Place),0,LF,!B3216
@@ -3248,7 +3248,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 603,01980,603-01980,108 Inch Reinforced Concrete Pipe,0,LF,!B3248
 603,02115,603-02115,Culvert Lining (21 x 15 Inch),0,LF,!B3249
 603,02180,603-02180,23x14 Inch Reinforced Concrete Pipe Elliptical,0,LF,!B3250
-603,02185,603-02185,23x14 Inch Reinforced Concrete Pipe (Complete In Place),303,LF,!B3251
+603,02185,603-02185,23x14 Inch Reinforced Concrete Pipe (Complete In Place),0,LF,!B3251
 603,02240,603-02240,30x19 Inch Reinforced Concrete Pipe Elliptical,0,LF,!B3252
 603,02245,603-02245,30x19 Inch Reinforced Concrete Pipe Elliptical (Complete In,0,LF,!B3253
 603,02246,603-02246,30x19 Inch Reinforced Concrete Pipe Elliptical (Complete In,0,LF,!B3254
@@ -3295,10 +3295,10 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 603,03960,603-03960,96 Inch Reinforced Concrete Pipe Special,0,LF,!B3295
 603,05012,603-05012,12 Inch Reinforced Concrete End Section,0,EACH,!B3296
 603,05015,603-05015,15 Inch Reinforced Concrete End Section,0,EACH,!B3297
-603,05018,603-05018,18 Inch Reinforced Concrete End Section,2,EACH,!B3298
+603,05018,603-05018,18 Inch Reinforced Concrete End Section,0,EACH,!B3298
 603,05019,603-05019,18 Inch Reinforced Concrete End Section (Special),0,EACH,!B3299
 603,05021,603-05021,21 Inch Reinforced Concrete End Section,0,EACH,!B3300
-603,05024,603-05024,24 Inch Reinforced Concrete End Section,4,EACH,!B3301
+603,05024,603-05024,24 Inch Reinforced Concrete End Section,0,EACH,!B3301
 603,05030,603-05030,30 Inch Reinforced Concrete End Section,0,EACH,!B3302
 603,05031,603-05031,30 Inch Reinforced Concrete End Section (Special),0,EACH,!B3303
 603,05033,603-05033,33 Inch Reinforced Concrete End Section,0,EACH,!B3304
@@ -3771,10 +3771,10 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 604,25020,604-25020,Vane Grate Inlet (20 Foot),0,EACH,!B3771
 604,25021,604-25021,Vane Grate Inlet Special (20 Foot),0,EACH,!B3772
 604,25025,604-25025,Vane Grate Inlet (25 Foot),0,EACH,!B3773
-604,26005,604-26005,Vane Grate Inlet (Double) (5 Foot),8,EACH,!B3774
-604,26006,604-26006,Vane Grate Inlet Special (Double) (5 Foot),1,EACH,!B3775
-604,26010,604-26010,Vane Grate Inlet (Double) (10 Foot),2,EACH,!B3776
-604,26011,604-26011,Vane Grate Inlet Special (Double) (10 Foot),2,EACH,!B3777
+604,26005,604-26005,Vane Grate Inlet (Double) (5 Foot),0,EACH,!B3774
+604,26006,604-26006,Vane Grate Inlet Special (Double) (5 Foot),0,EACH,!B3775
+604,26010,604-26010,Vane Grate Inlet (Double) (10 Foot),0,EACH,!B3776
+604,26011,604-26011,Vane Grate Inlet Special (Double) (10 Foot),0,EACH,!B3777
 604,26015,604-26015,Vane Grate Inlet (Double) (15 Foot),0,EACH,!B3778
 604,26016,604-26016,Vane Grate Inlet Special (Double) (15 Foot),0,EACH,!B3779
 604,26020,604-26020,Vane Grate Inlet (Double) (20 Foot),0,EACH,!B3780
@@ -3783,7 +3783,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 604,26035,604-26035,Vane Grate Inlet (Triple) (10 Foot),0,EACH,!B3783
 604,30000,604-30000,Manhole Slab Base (Special),0,EACH,!B3784
 604,30005,604-30005,Manhole Slab Base (5 Foot),0,EACH,!B3785
-604,30010,604-30010,Manhole Slab Base (10 Foot),5,EACH,!B3786
+604,30010,604-30010,Manhole Slab Base (10 Foot),0,EACH,!B3786
 604,30015,604-30015,Manhole Slab Base (15 Foot),0,EACH,!B3787
 604,30020,604-30020,Manhole Slab Base (20 Foot),0,EACH,!B3788
 604,30025,604-30025,Manhole Slab Base (25 Foot),0,EACH,!B3789
@@ -3957,12 +3957,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 604,83127,604-83127,27 Inch Plastic Pipe Sewer (Polyvinyl Chloride),0,LF,!B3957
 604,84000,604-84000,Plastic Sliplining,0,LF,!B3958
 604,85000,604-85000,Fiberglass Reinforced Plastic Walkway,0,SF,!B3959
-605,00004,605-00004,4 Inch Non-Perforated Pipe Underdrain,282,LF,!B3960
+605,00004,605-00004,4 Inch Non-Perforated Pipe Underdrain,0,LF,!B3960
 605,00006,605-00006,6 Inch Non-Perforated Pipe Underdrain,0,LF,!B3961
 605,00008,605-00008,8 Inch Non-Perforated Pipe Underdrain,0,LF,!B3962
 605,00012,605-00012,12 Inch Non-Perforated Pipe Underdrain,0,LF,!B3963
 605,00020,605-00020,2 Inch Perforated Pipe Underdrain,0,LF,!B3964
-605,00040,605-00040,4 Inch Perforated Pipe Underdrain,344,LF,!B3965
+605,00040,605-00040,4 Inch Perforated Pipe Underdrain,0,LF,!B3965
 605,00041,605-00041,4 Inch Perforated Pipe Underdrain (Special),0,LF,!B3966
 605,00060,605-00060,6 Inch Perforated Pipe Underdrain,0,LF,!B3967
 605,00061,605-00061,6 Inch Perforated Pipe Underdrain (Special),0,LF,!B3968
@@ -4038,12 +4038,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 605,83501,605-83501,Geocomposite Drain (Tunnel),0,SY,!B4038
 605,83505,605-83505,Formation Drain,0,LF,!B4039
 605,83560,605-83560,6 Inch Pipe Underdrain,0,LF,!B4040
-605,83580,605-83580,8 Inch Pipe Underdrain,132,LF,!B4041
+605,83580,605-83580,8 Inch Pipe Underdrain,0,LF,!B4041
 605,84000,605-84000,Subsurface Drain Outlet,0,LF,!B4042
 605,84100,605-84100,Subsurface Drain Outlet Structure,0,EACH,!B4043
 605,85000,605-85000,Surface Sand Filter,0,SF,!B4044
 606,00300,606-00300,Wood Curb,0,LF,!B4045
-606,00301,606-00301,Guardrail Type 3 (6-3 Post Spacing),1207,LF,!B4046
+606,00301,606-00301,Guardrail Type 3 (6-3 Post Spacing),0,LF,!B4046
 606,00302,606-00302,Guardrail Type 3 (31 Inch Midwest Guardrail System),0,LF,!B4047
 606,00305,606-00305,Guardrail Type 3 (Special),0,LF,!B4048
 606,00310,606-00310,Guardrail Type 3A,0,LF,!B4049
@@ -4085,7 +4085,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 606,00700,606-00700,Guardrail Type 7,0,LF,!B4085
 606,00701,606-00701,Guardrail (Cable),0,LF,!B4086
 606,00705,606-00705,Guardrail Type 7 (Special),0,LF,!B4087
-606,00710,606-00710,Guardrail Type 7 (Style CA),1540,LF,!B4088
+606,00710,606-00710,Guardrail Type 7 (Style CA),0,LF,!B4088
 606,00715,606-00715,Guardrail Type 7 (Style CA)(Concrete Glare Screen),0,LF,!B4089
 606,00716,606-00716,Guardrail Type 7 (Style CA) (Special),0,LF,!B4090
 606,00717,606-00717,Guardrail Type 7 (Style CA)(Concrete Glare Screen)(Special),0,LF,!B4091
@@ -4098,7 +4098,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 606,00735,606-00735,Guardrail Type 7 (Style CD)(Concrete Glare Screen),0,LF,!B4098
 606,00737,606-00737,Guardrail Type 7 (Style CD)(Concrete Glare Screen) (Special),0,LF,!B4099
 606,00739,606-00739,Guardrail Type 7 (Style CC-HOV) (Special),0,LF,!B4100
-606,00740,606-00740,Guardrail Type 7 (Style CE),380,LF,!B4101
+606,00740,606-00740,Guardrail Type 7 (Style CE),0,LF,!B4101
 606,00741,606-00741,Guardrail Type 7 (Style CE) (Special),0,LF,!B4102
 606,00745,606-00745,Guardrail Type 7 (Style CE)(Concrete Glare Screen),0,LF,!B4103
 606,00747,606-00747,Guardrail Type 7 (Style CD-HOV) (Special),0,LF,!B4104
@@ -4110,12 +4110,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 606,01310,606-01310,End Anchorage Type 3A,0,EACH,!B4110
 606,01320,606-01320,End Anchorage Type 3B,0,EACH,!B4111
 606,01330,606-01330,End Anchorage Type 3C,0,EACH,!B4112
-606,01340,606-01340,End Anchorage Type 3D,1,EACH,!B4113
+606,01340,606-01340,End Anchorage Type 3D,0,EACH,!B4113
 606,01350,606-01350,End Anchorage Type 3E,0,EACH,!B4114
 606,01360,606-01360,End Anchorage Type 3F,0,EACH,!B4115
-606,01370,606-01370,Transition Type 3G,4,EACH,!B4116
+606,01370,606-01370,Transition Type 3G,0,EACH,!B4116
 606,01371,606-01371,Transition Type 3G (Special),0,EACH,!B4117
-606,01380,606-01380,Transition Type 3H,1,EACH,!B4118
+606,01380,606-01380,Transition Type 3H,0,EACH,!B4118
 606,01381,606-01381,Transition Type 3H (Special),0,EACH,!B4119
 606,01385,606-01385,Transition Type 3J,0,EACH,!B4120
 606,01387,606-01387,End Anchorage Type 3B (31 Inch Midwest Guardrail System),0,EACH,!B4121
@@ -4129,7 +4129,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 606,02001,606-02001,End Anchorage (Slotted Rail Terminal),0,EACH,!B4129
 606,02002,606-02002,End Anchorage (ET-2000),0,EACH,!B4130
 606,02003,606-02003,End Anchorage (Nonflared),0,EACH,!B4131
-606,02005,606-02005,End Anchorage (Flared),3,EACH,!B4132
+606,02005,606-02005,End Anchorage (Flared),0,EACH,!B4132
 606,02007,606-02007,End Anchorage (Flared) (Special),0,EACH,!B4133
 606,08300,606-08300,Place Guardrail Type 3,0,LF,!B4134
 606,08310,606-08310,Place Guardrail Type 3A,0,LF,!B4135
@@ -4146,8 +4146,8 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 606,10450,606-10450,Bridge Rail Type 4R,0,LF,!B4146
 606,10500,606-10500,Bridge Rail Type 4 (Continuous Slope),0,LF,!B4147
 606,10650,606-10650,Bridge Rail Type T6,0,LF,!B4148
-606,10700,606-10700,Bridge Rail Type 7,831,LF,!B4149
-606,10705,606-10705,Bridge Rail Type 7 (Special),373,LF,!B4150
+606,10700,606-10700,Bridge Rail Type 7,0,LF,!B4149
+606,10705,606-10705,Bridge Rail Type 7 (Special),0,LF,!B4150
 606,10720,606-10720,Bridge Rail Type 7 (Section A),0,LF,!B4151
 606,10742,606-10742,"Bridge Rail Type 7 (42"")",0,LF,!B4152
 606,10750,606-10750,Bridge Rail Type 7R,0,LF,!B4153
@@ -4208,7 +4208,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 607,11455,607-11455,Fence Wood,0,LF,!B4208
 607,11460,607-11460,Fence Wood Railing,0,LF,!B4209
 607,11500,607-11500,Fence Stockade,0,LF,!B4210
-607,11525,607-11525,Fence (Plastic),2390,LF,!B4211
+607,11525,607-11525,Fence (Plastic),100,LF,!B4211
 607,11530,607-11530,Fence (Special),0,LF,!B4212
 607,11550,607-11550,Screen Wall,0,LF,!B4213
 607,11560,607-11560,Debris Barrier,0,SF,!B4214
@@ -4398,11 +4398,11 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 607,61224,607-61224,24 Foot Gate Double Screen,0,EACH,!B4398
 607,61232,607-61232,32 Foot Gate Double Screen,0,EACH,!B4399
 607,62000,607-62000,Temporary Rockfall Containment System,0,L S,!B4400
-608,00000,608-00000,Concrete Sidewalk,0,SY,!B4401
+608,00000,608-00000,Concrete Sidewalk,66,SY,!B4401
 608,00003,608-00003,Concrete Sidewalk (Fast Track),0,SY,!B4402
 608,00005,608-00005,Concrete Sidewalk (Special),0,SY,!B4403
 608,00006,608-00006,Concrete Sidewalk (6 Inch),0,SY,!B4404
-608,00010,608-00010,Concrete Curb Ramp,0,SY,!B4405
+608,00010,608-00010,Concrete Curb Ramp,75,SY,!B4405
 608,00011,608-00011,Curb Ramp (Fast Track),0,SY,!B4406
 608,00012,608-00012,Curb Ramp (Special),0,SY,!B4407
 608,00015,608-00015,Detectable Warnings,0,SF,!B4408
@@ -4442,11 +4442,11 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 609,20120,609-20120,Curb Type 2 (Colored) (Exposed Aggregate),0,LF,!B4442
 609,21000,609-21000,Concrete Curb Stop,0,EACH,!B4443
 609,21009,609-21009,Curb and Gutter Type 2 (Section I-B) (Colored),0,LF,!B4444
-609,21010,609-21010,Curb and Gutter Type 2 (Section I-B),0,LF,!B4445
+609,21010,609-21010,Curb and Gutter Type 2 (Section I-B),200,LF,!B4445
 609,21011,609-21011,Curb and Gutter Type 2 (Section I-M),0,LF,!B4446
 609,21012,609-21012,Curb and Gutter Type 2 (Section I-M) (Colored),0,LF,!B4447
 609,21013,609-21013,Curb and Gutter Type 2 (Section I-M) (Special),0,LF,!B4448
-609,21020,609-21020,Curb and Gutter Type 2 (Section II-B),0,LF,!B4449
+609,21020,609-21020,Curb and Gutter Type 2 (Section II-B),575,LF,!B4449
 609,21021,609-21021,Curb and Gutter Type 2 (Section II-M),0,LF,!B4450
 609,21022,609-21022,Curb and Gutter Type 2 (Section II-B) (Colored),0,LF,!B4451
 609,21023,609-21023,Curb and Gutter Type 2 (Section II-B) (Special),0,LF,!B4452
@@ -4488,7 +4488,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 609,40110,609-40110,Curb (Median) Type 4 (Section B),0,LF,!B4488
 609,40120,609-40120,Curb (Median) (Special),0,SY,!B4489
 609,40130,609-40130,Curb (Median) (Special),0,LF,!B4490
-609,60011,609-60011,Curb Type 6 (Section M),1124,LF,!B4491
+609,60011,609-60011,Curb Type 6 (Section M),0,LF,!B4491
 609,60900,609-60900,Curb Type 6 (Section M) Special,0,LF,!B4492
 609,70000,609-70000,Curb (Walkover),0,SF,!B4493
 609,70010,609-70010,Curb (Tunnel),0,LF,!B4494
@@ -4498,7 +4498,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 609,70040,609-70040,Curb (Composite Material),0,LF,!B4498
 609,71000,609-71000,Curb (Special),0,LF,!B4499
 610,00010,610-00010,Median Cover Material (Decorative),0,SF,!B4500
-610,00020,610-00020,Median Cover Material (Patterned Concrete),0,SF,!B4501
+610,00020,610-00020,Median Cover Material (Patterned Concrete),30,SF,!B4501
 610,00024,610-00024,Median Cover Material (4 Inch Patterned Concrete),0,SF,!B4502
 610,00026,610-00026,Median Cover Material (6 Inch Patterned Concrete),0,SF,!B4503
 610,00030,610-00030,Median Cover Material (Concrete),0,SF,!B4504
@@ -4545,7 +4545,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 611,00500,611-00500,Place Cattle Guard,0,EACH,!B4545
 611,01000,611-01000,Railroad Grade Crossing,0,LF,!B4546
 611,01100,611-01100,Railroad Track,0,LF,!B4547
-612,00001,612-00001,Delineator (Type I),0,EACH,!B4548
+612,00001,612-00001,Delineator (Type I),24,EACH,!B4548
 612,00002,612-00002,Delineator (Type II),0,EACH,!B4549
 612,00003,612-00003,Delineator (Type III),0,EACH,!B4550
 612,00010,612-00010,Delineator (Special),0,EACH,!B4551
@@ -4561,9 +4561,9 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 612,00038,612-00038,Delineator (Flexible) (Clamp Mounted),0,EACH,!B4561
 612,00039,612-00039,Delineator (Flexible) (Surface Mounted),0,EACH,!B4562
 612,00040,612-00040,Delineator (Flexible) (Extra Height),0,EACH,!B4563
-612,00041,612-00041,Delineator (Flexible) (Type I),11,EACH,!B4564
-612,00042,612-00042,Delineator (Flexible) (Type II),11,EACH,!B4565
-612,00043,612-00043,Delineator (Flexible) (Type III),7,EACH,!B4566
+612,00041,612-00041,Delineator (Flexible) (Type I),0,EACH,!B4564
+612,00042,612-00042,Delineator (Flexible) (Type II),0,EACH,!B4565
+612,00043,612-00043,Delineator (Flexible) (Type III),0,EACH,!B4566
 612,00046,612-00046,Delineator (Flexible) (Special) (Type I),0,EACH,!B4567
 612,00047,612-00047,Delineator (Flexible) (Special) (Type II),0,EACH,!B4568
 612,00048,612-00048,Delineator (Flexible) (Special (Type III),0,EACH,!B4569
@@ -4620,7 +4620,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,00026,613-00026,1-1/4 Inch HDPE Conduit (Bored),0,LF,!B4620
 613,00050,613-00050,1/2 Inch Electrical Conduit,0,LF,!B4621
 613,00075,613-00075,3/4 Inch Electrical Conduit,0,LF,!B4622
-613,00100,613-00100,1 Inch Electrical Conduit,745,LF,!B4623
+613,00100,613-00100,1 Inch Electrical Conduit,0,LF,!B4623
 613,00104,613-00104,1 Inch Electrical Conduit (Multiduct),0,LF,!B4624
 613,00125,613-00125,1-1/4 Inch Electrical Conduit,0,LF,!B4625
 613,00126,613-00126,1-1/4 Inch Electrical Conduit (Jacked),0,LF,!B4626
@@ -4629,20 +4629,20 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,00150,613-00150,1-1/2 Inch Electrical Conduit,0,LF,!B4629
 613,00151,613-00151,1-1/2 Inch Electrical Conduit (Jacked),0,LF,!B4630
 613,00155,613-00155,38 mm Electrical Conduit (Innerduct),0,LF,!B4631
-613,00200,613-00200,2 Inch Electrical Conduit,1490,LF,!B4632
+613,00200,613-00200,2 Inch Electrical Conduit,0,LF,!B4632
 613,00201,613-00201,2 Inch Electrical Conduit (Jacked),0,LF,!B4633
 613,00202,613-00202,2 Inch Electrical Conduit (Jacked) (Install Only),0,LF,!B4634
 613,00203,613-00203,2 Inch Electrical Conduit (Multiduct)(Jacked),0,LF,!B4635
-613,00206,613-00206,2 Inch Electrical Conduit (Bored),0,LF,!B4636
+613,00206,613-00206,2 Inch Electrical Conduit (Bored),1990,LF,!B4636
 613,00207,613-00207,2 Inch Electrical Conduit (Bridge) (Special),0,LF,!B4637
 613,00208,613-00208,2 Inch Electrical Conduit (Bored) (Install Only),0,LF,!B4638
 613,00250,613-00250,2-1/2 Inch Electrical Conduit,0,LF,!B4639
 613,00251,613-00251,2-1/2 Inch Electrical Conduit (Jacked),0,LF,!B4640
-613,00300,613-00300,3 Inch Electrical Conduit,745,LF,!B4641
+613,00300,613-00300,3 Inch Electrical Conduit,0,LF,!B4641
 613,00301,613-00301,3 Inch Electrical Conduit (Jacked),0,LF,!B4642
 613,00302,613-00302,3 Inch Electrical Conduit (Jacked) (Install Only),0,LF,!B4643
 613,00303,613-00303,3 Inch Electric Conduit Body (BUB),0,EACH,!B4644
-613,00306,613-00306,3 Inch Electrical Conduit (Bored),0,LF,!B4645
+613,00306,613-00306,3 Inch Electrical Conduit (Bored),1470,LF,!B4645
 613,00350,613-00350,3-1/2 Inch Electrical Conduit,0,LF,!B4646
 613,00400,613-00400,4 Inch Electrical Conduit,0,LF,!B4647
 613,00401,613-00401,4 Inch Electrical Conduit (Jacked),0,LF,!B4648
@@ -4663,14 +4663,14 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,00805,613-00805,8 Inch Electrical Conduit (Innerduct),0,LF,!B4663
 613,01050,613-01050,1/2 Inch Electrical Conduit (Plastic),0,LF,!B4664
 613,01075,613-01075,3/4 Inch Electrical Conduit (Plastic),0,LF,!B4665
-613,01100,613-01100,1 Inch Electrical Conduit (Plastic),250,LF,!B4666
+613,01100,613-01100,1 Inch Electrical Conduit (Plastic),0,LF,!B4666
 613,01125,613-01125,1-1/4 Inch Electrical Conduit (Plastic),0,LF,!B4667
 613,01150,613-01150,1-1/2 Inch Electrical Conduit (Plastic),0,LF,!B4668
-613,01200,613-01200,2 Inch Electrical Conduit (Plastic),3080,LF,!B4669
+613,01200,613-01200,2 Inch Electrical Conduit (Plastic),0,LF,!B4669
 613,01201,613-01201,2 Inch Electrical Conduit (Plastic) (Special),0,LF,!B4670
 613,01202,613-01202,2 Inch Electrical Conduit (Plastic) (Install Only),0,LF,!B4671
 613,01250,613-01250,2-1/2 Inch Electrical Conduit (Plastic),0,LF,!B4672
-613,01300,613-01300,3 Inch Electrical Conduit (Plastic),1420,LF,!B4673
+613,01300,613-01300,3 Inch Electrical Conduit (Plastic),0,LF,!B4673
 613,01301,613-01301,3 Inch Electrical Conduit (Plastic) (Special),0,LF,!B4674
 613,01302,613-01302,3 Inch Electrical Conduit (Plastic) (Install Only),0,LF,!B4675
 613,01350,613-01350,3-1/2 Inch Electrical Conduit (Plastic),0,LF,!B4676
@@ -4735,7 +4735,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,07016,613-07016,"Pull Box (16""x16""x6"")",0,EACH,!B4735
 613,07017,613-07017,"Pull Box (16""x14""x6"")",0,EACH,!B4736
 613,07018,613-07018,"Pull Box (18""x12""x8"")",0,EACH,!B4737
-613,07023,613-07023,"Pull Box (24""x36""x24"")",0,EACH,!B4738
+613,07023,613-07023,"Pull Box (24""x36""x24"")",2,EACH,!B4738
 613,07024,613-07024,"Pull Box (24""x24""x8"")",0,EACH,!B4739
 613,07025,613-07025,"Pull Box (24""x24""x14"")",0,EACH,!B4740
 613,07026,613-07026,"Pull Box (16""x24""x12"")",0,EACH,!B4741
@@ -4772,7 +4772,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,08100,613-08100,Electric Vault (6'x5'x6.5') Deep,0,EACH,!B4772
 613,08110,613-08110,Electric Vault (7'x9'x7.5') Deep,0,EACH,!B4773
 613,08200,613-08200,2 Inch Fiberglass Cable (Install Only),0,LF,!B4774
-613,10000,613-10000,Wiring,1,L S,!B4775
+613,10000,613-10000,Wiring,0,L S,!B4775
 613,10010,613-10010,Wiring (Special),0,L S,!B4776
 613,10015,613-10015,Breakaway Wiring System,0,EACH,!B4777
 613,12000,613-12000,Luminaire Fluorescent (Tunnel),0,EACH,!B4778
@@ -4822,7 +4822,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,15100,613-15100,Recessed Light,0,EACH,!B4822
 613,15200,613-15200,Recessed Light (Special),0,EACH,!B4823
 613,15750,613-15750,HID Luminaire Mounting Support System,0,L S,!B4824
-613,16000,613-16000,Luminaire (Special),4,EACH,!B4825
+613,16000,613-16000,Luminaire (Special),0,EACH,!B4825
 613,16002,613-16002,Luminaire Control Node (Stand Alone),0,EACH,!B4826
 613,16010,613-16010,Light Standard and Luminaire (Decorative),0,EACH,!B4827
 613,16015,613-16015,Light Standard and Luminaire (Decorative) (Furnish Only),0,EACH,!B4828
@@ -4882,11 +4882,11 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,34300,613-34300,Light Standard Metal (30 Foot),0,EACH,!B4882
 613,34302,613-34302,Light Standard Metal (30 Foot) (2 Arm),0,EACH,!B4883
 613,34303,613-34303,Light Standard Metal (30 Foot) (2 Arm) (Spec),0,EACH,!B4884
-613,34350,613-34350,Light Standard Metal (35 Foot),9,EACH,!B4885
+613,34350,613-34350,Light Standard Metal (35 Foot),0,EACH,!B4885
 613,34351,613-34351,Light Standard Metal (35 Foot) (Special) (1 Arm),0,EACH,!B4886
 613,34352,613-34352,Light Standard Metal (35 Foot) (Special) (2 Arm),0,EACH,!B4887
 613,34353,613-34353,Light Standard Metal (35 Foot) (2 Arm),0,EACH,!B4888
-613,34400,613-34400,Light Standard Metal (40 Foot),13,EACH,!B4889
+613,34400,613-34400,Light Standard Metal (40 Foot),0,EACH,!B4889
 613,34401,613-34401,Light Standard Metal (40 Foot) (Special),0,EACH,!B4890
 613,34402,613-34402,Light Standard Metal (40 Foot) (2 Arm),0,EACH,!B4891
 613,34500,613-34500,Light Standard Metal (50 Foot),0,EACH,!B4892
@@ -4903,7 +4903,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,35500,613-35500,Light Standard Steel High Mast (Install Only),0,LF,!B4903
 613,40000,613-40000,Concrete Foundation Pad,0,EACH,!B4904
 613,40005,613-40005,Concrete Foundation Pad (Install Only),0,EACH,!B4905
-613,40010,613-40010,Light Standard Foundation,18,EACH,!B4906
+613,40010,613-40010,Light Standard Foundation,0,EACH,!B4906
 613,40012,613-40012,Light Standard Foundation Special,0,EACH,!B4907
 613,40015,613-40015,Light Standard Anchor,0,EACH,!B4908
 613,40020,613-40020,Transformer Base Aluminum,0,EACH,!B4909
@@ -4928,7 +4928,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,50125,613-50125,Control Center Box,0,EACH,!B4928
 613,50130,613-50130,4-Plex Receptacle (With Back Box and Cover),0,EACH,!B4929
 613,50132,613-50132,2-Plex Receptacle (With Box and Cover),0,EACH,!B4930
-613,50150,613-50150,Secondary Service Pedestal,2,EACH,!B4931
+613,50150,613-50150,Secondary Service Pedestal,0,EACH,!B4931
 613,50155,613-50155,Secondary Service Pedestal (Install Only),0,EACH,!B4932
 613,50200,613-50200,Lighting System,0,EACH,!B4933
 613,50202,613-50202,Monument Lighting,0,EACH,!B4934
@@ -4958,12 +4958,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 613,70152,613-70152,Luminaire High Pressure Sodium (150W) (Furnish Only),0,EACH,!B4958
 613,70175,613-70175,Luminaire High Pressure Sodium (175 Watt),0,EACH,!B4959
 613,70200,613-70200,Luminaire High Pressure Sodium (200 Watt),0,EACH,!B4960
-613,70250,613-70250,Luminaire High Pressure Sodium (250 Watt),9,EACH,!B4961
+613,70250,613-70250,Luminaire High Pressure Sodium (250 Watt),8,EACH,!B4961
 613,70251,613-70251,Luminaire High Pressure Sodium (250 Watt) (Install Only),0,EACH,!B4962
 613,70252,613-70252,Luminaire High Pressure Sodium (250 Watt) (Furnish Only),0,EACH,!B4963
 613,70255,613-70255,Fuses,0,EACH,!B4964
 613,70260,613-70260,Fuse Holder,0,EACH,!B4965
-613,70400,613-70400,Luminaire High Pressure Sodium (400 Watt),13,EACH,!B4966
+613,70400,613-70400,Luminaire High Pressure Sodium (400 Watt),0,EACH,!B4966
 613,70401,613-70401,Luminaire High Pressure Sodium (400 Watt) (Install Only),0,EACH,!B4967
 613,70403,613-70403,Luminaire High Pressure Sodium (400 Watt) (Special),0,EACH,!B4968
 613,71000,613-71000,Luminaire High Pressure Sodium (1000 Watt),0,EACH,!B4969
@@ -5039,8 +5039,8 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,00008,614-00008,Traffic Control Coordinator,0,DAY,!B5039
 614,00010,614-00010,Sign Cleaning,0,HOUR,!B5040
 614,00011,614-00011,Sign Panel (Class I),0,SF,!B5041
-614,00012,614-00012,Sign Panel (Class II),50,SF,!B5042
-614,00013,614-00013,Sign Panel (Class III),420,SF,!B5043
+614,00012,614-00012,Sign Panel (Class II),56,SF,!B5042
+614,00013,614-00013,Sign Panel (Class III),0,SF,!B5043
 614,00014,614-00014,Lighted Street Name Sign (Inst Only),0,EACH,!B5044
 614,00018,614-00018,Sign Panel (Plywood),0,M2,!B5045
 614,00021,614-00021,Sign Panel (Class I) (Furnish Only),0,SF,!B5046
@@ -5071,7 +5071,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,00216,614-00216,Steel Sign Post (2x2 Inch Tubing),0,LF,!B5071
 614,00217,614-00217,Steel Sign Post (2x2 Inch Tubing) (Furnish Only),0,LF,!B5072
 614,00218,614-00218,Steel Sign Post (2.25x2.25 Inch Tubing),0,LF,!B5073
-614,00220,614-00220,Steel Sign Post (2.5x2.5 Inch Tubing),0,LF,!B5074
+614,00220,614-00220,Steel Sign Post (2.5x2.5 Inch Tubing),20,LF,!B5074
 614,00222,614-00222,Steel Sign Post (2.75x 2.75 Inch Tubing),0,LF,!B5075
 614,00224,614-00224,Steel Sign Post (3x3 Inch Tubing),0,LF,!B5076
 614,00225,614-00225,Steel Sign Post (3.25 X 3.25 Inch Tubing),0,LF,!B5077
@@ -5082,7 +5082,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,00495,614-00495,Steel Sign Post (S 4x9.5),0,LF,!B5082
 614,00510,614-00510,Steel Sign Post (S 5x10),0,LF,!B5083
 614,00612,614-00612,Steel Sign Post (W 6x12),0,LF,!B5084
-614,00615,614-00615,Steel Sign Post (W 6x15),54,LF,!B5085
+614,00615,614-00615,Steel Sign Post (W 6x15),0,LF,!B5085
 614,00818,614-00818,Steel Sign Post (W 8x18),0,LF,!B5086
 614,00821,614-00821,Steel Sign Post (W 8x21),0,LF,!B5087
 614,01022,614-01022,Steel Sign Post (W 10x22),0,LF,!B5088
@@ -5107,11 +5107,11 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,01583,614-01583,Steel Sign Support (2-1/2 In Round Sch 80) (Post & Slipbase),0,EACH,!B5107
 614,01585,614-01585,Steel Sign Support (2-1/2 Inch Round Sch 80) (Post),0,LF,!B5108
 614,01586,614-01586,Steel Sign Support (2-1/2 In Rd Sch 80)(Post)(Install Only),0,LF,!B5109
-614,01588,614-01588,Steel Sign Support (2-1/2 Inch Round Sch 80)(Slipbase),7,EACH,!B5110
+614,01588,614-01588,Steel Sign Support (2-1/2 Inch Round Sch 80)(Slipbase),0,EACH,!B5110
 614,01589,614-01589,Steel Sign Supp (2-1/2 In Rd Sch 80) (Slip) (Install Only),0,EACH,!B5111
 614,01736,614-01736,Steel Sign Ground Stub Base (36 Inch),0,EACH,!B5112
 614,03001,614-03001,Concrete Footing (Type 1),0,EACH,!B5113
-614,03002,614-03002,Concrete Footing (Type 2),2,EACH,!B5114
+614,03002,614-03002,Concrete Footing (Type 2),0,EACH,!B5114
 614,03003,614-03003,Concrete Footing (Type 3),0,EACH,!B5115
 614,03004,614-03004,Concrete Footing (Type 4),0,EACH,!B5116
 614,03005,614-03005,Concrete Footing (Type 5),0,EACH,!B5117
@@ -5252,7 +5252,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,31600,614-31600,Monotube Overhead Sign Cantilever (16 Inch Diameter),0,EACH,!B5252
 614,31800,614-31800,Monotube Overhead Sign Cantilever (18 Inch Diameter),0,EACH,!B5253
 614,32000,614-32000,Monotube Overhead Sign Cantilever (20 Inch Diameter),0,EACH,!B5254
-614,32400,614-32400,Monotube Overhead Sign Cantilever (24 Inch Diameter),2,EACH,!B5255
+614,32400,614-32400,Monotube Overhead Sign Cantilever (24 Inch Diameter),0,EACH,!B5255
 614,32900,614-32900,Monotube Overhead Sign Cantilever (Install Only),0,EACH,!B5256
 614,32901,614-32901,Monotube Overhead Sign Cantilever (Furnish Only),0,EACH,!B5257
 614,33000,614-33000,Monotube Overhead Sign Cantilever (30 Inch Diameter),0,EACH,!B5258
@@ -5290,7 +5290,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,70112,614-70112,Traffic Signal Face (12),0,EACH,!B5290
 614,70113,614-70113,Pedestrian Signal Face (12),0,EACH,!B5291
 614,70116,614-70116,Pedestrian Signal Face (16-16),0,EACH,!B5292
-614,70117,614-70117,Pedestrian Signal Face (16),0,EACH,!B5293
+614,70117,614-70117,Pedestrian Signal Face (16),16,EACH,!B5293
 614,70118,614-70118,Pedestrian Signal Face (18),0,EACH,!B5294
 614,70120,614-70120,Pedestrian Signal Lens (9),0,EACH,!B5295
 614,70126,614-70126,Pedestrian Signal Face (16-16)(LED Replacement),0,EACH,!B5296
@@ -5304,7 +5304,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,70250,614-70250,Pedestrian Signal Face (16)(Countdown)(LED Replacement),0,EACH,!B5304
 614,70324,614-70324,Traffic Signal Face (8-8-8),0,EACH,!B5305
 614,70328,614-70328,Traffic Signal Face (12-8-8),0,EACH,!B5306
-614,70336,614-70336,Traffic Signal Face (12-12-12),0,EACH,!B5307
+614,70336,614-70336,Traffic Signal Face (12-12-12),39,EACH,!B5307
 614,70337,614-70337,Traffic Signal Face (12-12-12) (Install Only),0,EACH,!B5308
 614,70432,614-70432,Traffic Signal Face (8-8-8-8),0,EACH,!B5309
 614,70436,614-70436,Traffic Signal Face (12-8-8-8),0,EACH,!B5310
@@ -5313,7 +5313,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,70450,614-70450,Traffic Signal Face (12-12-12-12)(Install Only),0,EACH,!B5313
 614,70548,614-70548,Traffic Signal Face (8-8-8-12-12),0,EACH,!B5314
 614,70552,614-70552,Traffic Signal Face (12-8-8-12-12),0,EACH,!B5315
-614,70560,614-70560,Traffic Signal Face (12-12-12-12-12),0,EACH,!B5316
+614,70560,614-70560,Traffic Signal Face (12-12-12-12-12),7,EACH,!B5316
 614,70561,614-70561,Traffic Signal Face (12-12-12-12-12)(Install Only),0,EACH,!B5317
 614,70565,614-70565,Traffic Signal Face (12-12-12-12-12-12),0,EACH,!B5318
 614,72430,614-72430,Traffic Signal (24 Inch x 30 Inch Blankout LED Sign),0,EACH,!B5319
@@ -5353,7 +5353,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,72872,614-72872,Loop Detector (Micro Type),0,EACH,!B5353
 614,72873,614-72873,Loop Detector Wire Prefabricated (Install Only),0,LF,!B5354
 614,72874,614-72874,Loop Detector Wire (Probe) Special,0,EACH,!B5355
-614,72875,614-72875,Loop Detector Wire,0,LF,!B5356
+614,72875,614-72875,Loop Detector Wire,6000,LF,!B5356
 614,72876,614-72876,Traffic Signal Vehicle Detector Amplifier (Loop Type) (2 Cha,0,EACH,!B5357
 614,72877,614-72877,Traffic Signal Vehicle Detector Amplifier (Loop Type) (2 Cha,0,EACH,!B5358
 614,72878,614-72878,Traffic Signal Vehicle Detector Amplifier (Loop Type) (4 Cha,0,EACH,!B5359
@@ -5367,7 +5367,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,72886,614-72886,Intersection Detection System (Camera),0,EACH,!B5367
 614,72887,614-72887,Microwave Vehicle Radar Detector,0,EACH,!B5368
 614,72888,614-72888,Microwave Vehicle Radar Detector (Install Only),0,EACH,!B5369
-614,72889,614-72889,Traffic Signal Vehicle Detector (Micro Type) (Non-Invasive),0,EACH,!B5370
+614,72889,614-72889,Traffic Signal Vehicle Detector (Micro Type) (Non-Invasive),10,EACH,!B5370
 614,72890,614-72890,Span Wire Cable,0,LF,!B5371
 614,72891,614-72891,Telephone Interconnect Wire,0,LF,!B5372
 614,72892,614-72892,Power Feed Wire,0,LF,!B5373
@@ -5531,15 +5531,15 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,81120,614-81120,Traffic Signal-Light Pole Steel (1-20 Foot Mast Arm),0,EACH,!B5531
 614,81125,614-81125,Traffic Signal-Light Pole Steel (1-25 Foot Mast Arm),0,EACH,!B5532
 614,81130,614-81130,Traffic Signal-Light Pole Steel (1-30 Foot Mast Arm),0,EACH,!B5533
-614,81135,614-81135,Traffic Signal-Light Pole Steel (1-35 Foot Mast Arm),0,EACH,!B5534
+614,81135,614-81135,Traffic Signal-Light Pole Steel (1-35 Foot Mast Arm),2,EACH,!B5534
 614,81140,614-81140,Traffic Signal-Light Pole Steel (1-40 Foot Mast Arm),0,EACH,!B5535
-614,81145,614-81145,Traffic Signal-Light Pole Steel (1-45 Foot Mast Arm),0,EACH,!B5536
+614,81145,614-81145,Traffic Signal-Light Pole Steel (1-45 Foot Mast Arm),2,EACH,!B5536
 614,81150,614-81150,Traffic Signal-Light Pole Steel (1-50 Foot Mast Arm),0,EACH,!B5537
 614,81155,614-81155,Traffic Signal-Light Pole Steel (1-55 Foot Mast Arm),0,EACH,!B5538
-614,81160,614-81160,Traffic Signal Light Pole Steel (1-60 Foot Mast Arm),0,EACH,!B5539
+614,81160,614-81160,Traffic Signal Light Pole Steel (1-60 Foot Mast Arm),2,EACH,!B5539
 614,81165,614-81165,Traffic Signal-Light Pole Steel (1-65 Foot Mast Arm),0,EACH,!B5540
-614,81170,614-81170,Traffic Signal-Light Pole Steel (1-70 Foot Mast Arm),0,EACH,!B5541
-614,81175,614-81175,Traffic Signal-Light Pole Steel (1-75 Foot Mast Arm),0,EACH,!B5542
+614,81170,614-81170,Traffic Signal-Light Pole Steel (1-70 Foot Mast Arm),1,EACH,!B5541
+614,81175,614-81175,Traffic Signal-Light Pole Steel (1-75 Foot Mast Arm),1,EACH,!B5542
 614,81220,614-81220,Traffic Signal-Light Pole Steel (2-20 Foot Mast Arm),0,EACH,!B5543
 614,81230,614-81230,Traffic Signal-Light Pole Steel (2-30 Foot Mast Arm),0,EACH,!B5544
 614,81240,614-81240,Traffic Signal-Light Pole Steel (2-40 Foot Mast Arm),0,EACH,!B5545
@@ -5655,7 +5655,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,86239,614-86239,Traffic Signal Controller (Solid State) (Full-Actuated) (12,0,EACH,!B5655
 614,86240,614-86240,Traffic Signal Controller (Type 170),0,EACH,!B5656
 614,86245,614-86245,Controller (Type 170E),0,EACH,!B5657
-614,86246,614-86246,Controller (Type 170E-HC11),0,EACH,!B5658
+614,86246,614-86246,Controller (Type 170E-HC11),2,EACH,!B5658
 614,86247,614-86247,Controller (Type 170E-HC11 W/W70SM Firmware),0,EACH,!B5659
 614,86248,614-86248,Traffic Signal Controller (Type 2070LC),0,EACH,!B5660
 614,86250,614-86250,Ramp Metering Controller,0,EACH,!B5661
@@ -5806,7 +5806,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 614,92000,614-92000,Sound Barrier Access Door,0,EACH,!B5806
 615,00030,615-00030,Embankment Protector Type 3,0,EACH,!B5807
 615,00040,615-00040,Embankment Protector Type 4,0,EACH,!B5808
-615,00050,615-00050,Embankment Protector Type 5,1,EACH,!B5809
+615,00050,615-00050,Embankment Protector Type 5,0,EACH,!B5809
 615,00100,615-00100,Place Embankment Protector,0,EACH,!B5810
 615,00150,615-00150,Embankment Protector (Special),0,EACH,!B5811
 615,00152,615-00152,Erosion Protector (Special),0,LF,!B5812
@@ -6210,7 +6210,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 618,10048,618-10048,Precast Concrete U Girder (U48)(Pre-Tensioned),0,LF,!B6210
 618,10054,618-10054,Precast Concrete U Girder (U54)(Pre-Tensioned),0,LF,!B6211
 618,10060,618-10060,Precast Concrete U Girder (U60)(Pre-Tensioned),0,LF,!B6212
-618,10072,618-10072,Precast Concrete U Girder (U72)(Pre-Tensioned),3291,LF,!B6213
+618,10072,618-10072,Precast Concrete U Girder (U72)(Pre-Tensioned),0,LF,!B6213
 618,10084,618-10084,Precast Concrete U Girder (U84)(Pre-Tensioned),0,LF,!B6214
 618,10096,618-10096,Precast Concrete U Girder (U96)(Pre-Tensioned),0,LF,!B6215
 618,10100,618-10100,Precast Concrete U Girder (Post-Tensioned),0,LF,!B6216
@@ -6486,12 +6486,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 620,00005,620-00005,Field Office (Special),0,EACH,!B6486
 620,00009,620-00009,Field Office (State Furnished),0,EACH,!B6487
 620,00011,620-00011,Field Laboratory (Class 1),0,EACH,!B6488
-620,00012,620-00012,Field Laboratory (Class 2),1,EACH,!B6489
+620,00012,620-00012,Field Laboratory (Class 2),0,EACH,!B6489
 620,00013,620-00013,Field Laboratory (Class 3),0,EACH,!B6490
 620,00014,620-00014,Field Laboratory (Special),0,EACH,!B6491
 620,00015,620-00015,Field Laboratory (State Furnished),0,EACH,!B6492
 620,00018,620-00018,Field Office and Laboratory Facility,0,L S,!B6493
-620,00020,620-00020,Sanitary Facility,2,EACH,!B6494
+620,00020,620-00020,Sanitary Facility,1,EACH,!B6494
 620,00035,620-00035,Sand Storage Facility,0,L S,!B6495
 620,00040,620-00040,Liquidated Damages,0,DOL,!B6496
 620,00045,620-00045,Liquidated Damages,0,DAY,!B6497
@@ -6508,7 +6508,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 621,00412,621-00412,Structure Temporary Access Road (Location 2),0,L S,!B6508
 621,00425,621-00425,Detour,0,L S,!B6509
 621,00430,621-00430,Detour,0,SY,!B6510
-621,00450,621-00450,Detour Pavement,848,SY,!B6511
+621,00450,621-00450,Detour Pavement,0,SY,!B6511
 621,00451,621-00451,Detour Pavement,0,TON,!B6512
 621,00452,621-00452,Detour Pavement (Maintain),0,SY,!B6513
 621,00475,621-00475,Maintenance of Detours,0,L S,!B6514
@@ -8116,7 +8116,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 624,80020,624-80020,20 Inch Drainage Pipe  Centrifugally Cast Fiberglass Reinfor,0,LF,!B8116
 624,80024,624-80024,24 Inch Drainage Pipe Centrifugally Cast Fiberglass Reinforc,0,LF,!B8117
 625,00000,625-00000,Construction Surveying,1,L S,!B8118
-625,00001,625-00001,Construction Surveying (Hourly),100,HOUR,!B8119
+625,00001,625-00001,Construction Surveying (Hourly),0,HOUR,!B8119
 625,00002,625-00002,Construction Survey (Tunnel),0,L S,!B8120
 625,00010,625-00010,Construction Testing,0,L S,!B8121
 625,00015,625-00015,Settlement Instrumentation,0,L S,!B8122
@@ -8134,18 +8134,18 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 626,01102,626-01102,Public Information Services (Tier II),0,L S,!B8134
 626,01103,626-01103,Public Information Services (Tier III),0,L S,!B8135
 626,01104,626-01104,Public Information Services (Tier IV),0,L S,!B8136
-627,00001,627-00001,Pavement Marking Paint,91,GAL,!B8137
+627,00001,627-00001,Pavement Marking Paint,0,GAL,!B8137
 627,00002,627-00002,Thermoplastic Pavement Marking,0,SF,!B8138
 627,00003,627-00003,Thermoplastic Pavement Marking (Inlaid),0,SF,!B8139
 627,00004,627-00004,Epoxy Pavement Marking,0,SF,!B8140
-627,00005,627-00005,Epoxy Pavement Marking,64,GAL,!B8141
+627,00005,627-00005,Epoxy Pavement Marking,5,GAL,!B8141
 627,00006,627-00006,Modified Epoxy Pavement Marking (On-Call),0,GAL,!B8142
 627,00007,627-00007,Epoxy Pavement Marking (Special),0,GAL,!B8143
 627,00008,627-00008,Modified Epoxy Pavement Marking,0,GAL,!B8144
 627,00009,627-00009,Modified Epoxy Pavement Marking(Inlaid),0,GAL,!B8145
 627,00010,627-00010,Pavement Marking Paint (Removable),0,GAL,!B8146
 627,00011,627-00011,Pavement Marking Paint (Waterborne),0,GAL,!B8147
-627,00012,627-00012,Pavement Marking Paint (Low VOC Solvent Base),0,GAL,!B8148
+627,00012,627-00012,Pavement Marking Paint (Low VOC Solvent Base),10,GAL,!B8148
 627,00013,627-00013,Pavement Marking Paint (High Build),0,GAL,!B8149
 627,00014,627-00014,Pavement Marking Paint (Low Temperature),0,GAL,!B8150
 627,00015,627-00015,Pavement Marking Paint (Airport),0,SF,!B8151
@@ -8175,7 +8175,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 627,01010,627-01010,Preformed Plastic Pavement Marking (Type I)(Inlaid),0,SF,!B8175
 627,01012,627-01012,Preformed Plastic Pavement Marking (Type I)(Inlaid) (Install,0,SF,!B8176
 627,02000,627-02000,Preformed Plastic Pavement Marking (Type B),0,SF,!B8177
-627,02001,627-02001,Preformed Plastic Pavement Marking (Type II),6321,SF,!B8178
+627,02001,627-02001,Preformed Plastic Pavement Marking (Type II),0,SF,!B8178
 627,02003,627-02003,Preformed Plastic Pavement Marking (Type B) (Inlaid),0,SF,!B8179
 627,02010,627-02010,Preformed Plastic Pavement Marking (Type II) (Inlaid),0,SF,!B8180
 627,02012,627-02012,Preformed Plastic Pavement Marking (Type II)(Inlaid) (Instal,0,SF,!B8181
@@ -8199,7 +8199,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 627,30329,627-30329,Preformed Plastic Pavement Marking (Xwalk-Stop Line) (Type I,0,SF,!B8199
 627,30330,627-30330,Preformed Plastic Pavement Marking (Type B) (Xwalk-Stopline),0,SF,!B8200
 627,30331,627-30331,Preformed Plastic Pavement Marking (Xwalk - Stop Line) (Type,0,SF,!B8201
-627,30332,627-30332,Preformed Plastic Pavement Marking (Xwalk-Stop Line) (Type I,0,SF,!B8202
+627,30332,627-30332,Preformed Plastic Pavement Marking (Xwalk-Stop Line) (Type I,80,SF,!B8202
 627,30405,627-30405,Preformed Thermoplastic Pavement Marking (Word-Symbol),0,SF,!B8203
 627,30406,627-30406,Preformed Thermoplastic Pvmt Mkg (Word-Symbol)(Install Only),0,SF,!B8204
 627,30407,627-30407,Preformed Thermoplastic Pavement Marking (Word-Symbol) (Spec,0,SF,!B8205
@@ -8254,25 +8254,25 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 629,01110,629-01110,Locate Monuments,0,HOUR,!B8254
 629,01210,629-01210,Adjust Monument Box,0,EACH,!B8255
 629,01300,629-01300,Survey Monument (Temporary),0,EACH,!B8256
-630,00000,630-00000,Flagging,5000,HOUR,!B8257
+630,00000,630-00000,Flagging,700,HOUR,!B8257
 630,00001,630-00001,Pilot Car Operation,0,HOUR,!B8258
 630,00002,630-00002,Traffic Control Supervisor,0,DAY,!B8259
-630,00003,630-00003,Uniformed Traffic Control,1500,HOUR,!B8260
+630,00003,630-00003,Uniformed Traffic Control,16,HOUR,!B8260
 630,00004,630-00004,Traffic Control Vehicle,0,EACH,!B8261
 630,00005,630-00005,Uniformed Traffic Control (Vehicle),0,HOUR,!B8262
 630,00006,630-00006,Uniformed Traffic Control (Vehicle),0,HOUR,!B8263
-630,00007,630-00007,Traffic Control Inspection,175,DAY,!B8264
+630,00007,630-00007,Traffic Control Inspection,20,DAY,!B8264
 630,00008,630-00008,Traffic Control (Special),0,L S,!B8265
 630,00009,630-00009,Traffic Control Vehicle (Truck),0,EACH,!B8266
 630,00010,630-00010,Sign Cleaning,0,HOUR,!B8267
 630,00011,630-00011,Courtesy Vehicle,0,DAY,!B8268
-630,00012,630-00012,Traffic Control Management,350,DAY,!B8269
+630,00012,630-00012,Traffic Control Management,60,DAY,!B8269
 630,00013,630-00013,Traffic Control Management includes Flagging,0,DAY,!B8270
 630,00014,630-00014,Traffic Control Vehicle (Truck),0,HOUR,!B8271
 630,00015,630-00015,Uniformed Traffic Control Coordination,0,HOUR,!B8272
 630,00016,630-00016,Traffic Control (Special) LS,0,L S,!B8273
 630,00020,630-00020,Traffic Control Vehicle,0,DAY,!B8274
-630,00025,630-00025,Traffic Control Vehicle,1500,HOUR,!B8275
+630,00025,630-00025,Traffic Control Vehicle,0,HOUR,!B8275
 630,00027,630-00027,Rolling Roadblock,0,DAY,!B8276
 630,00028,630-00028,Rolling Roadblock,0,HOUR,!B8277
 630,00030,630-00030,Courtesy Patrol,0,DAY,!B8278
@@ -8286,7 +8286,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 630,10010,630-10010,Traffic Control (Airport),0,L S,!B8286
 630,13653,630-13653,Inlet Ty 13 (5 Ft)(Spec)(3 Unit),0,EACH,!B8287
 630,80000,630-80000,Traffic Control Devices (Maintain),0,DAY,!B8288
-630,80001,630-80001,Flashing Beacon (Portable),6,EACH,!B8289
+630,80001,630-80001,Flashing Beacon (Portable),0,EACH,!B8289
 630,80002,630-80002,Flashing Beacon (Solar),0,EACH,!B8290
 630,80300,630-80300,Flagger Platform,0,EACH,!B8291
 630,80305,630-80305,Flagging Station Light,0,EACH,!B8292
@@ -8297,12 +8297,12 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 630,80335,630-80335,Barricade (Type 3 M-A) (Temporary),0,EACH,!B8297
 630,80336,630-80336,Barricade (Type 3 M-B) (Temporary),0,EACH,!B8298
 630,80337,630-80337,Barricade (Type 3 M-C) (Temporary),0,EACH,!B8299
-630,80338,630-80338,Barricade (Type 3 M-D) (Temporary),1,EACH,!B8300
+630,80338,630-80338,Barricade (Type 3 M-D) (Temporary),0,EACH,!B8300
 630,80339,630-80339,Directional Barricade,0,EACH,!B8301
-630,80341,630-80341,Construction Traffic Sign (Panel Size A),18,EACH,!B8302
-630,80342,630-80342,Construction Traffic Sign (Panel Size B),40,EACH,!B8303
+630,80341,630-80341,Construction Traffic Sign (Panel Size A),20,EACH,!B8302
+630,80342,630-80342,Construction Traffic Sign (Panel Size B),24,EACH,!B8303
 630,80343,630-80343,Construction Traffic Sign (Panel Size C),8,EACH,!B8304
-630,80344,630-80344,Construction Traffic Sign (Special),54.5,SF,!B8305
+630,80344,630-80344,Construction Traffic Sign (Special),160,SF,!B8305
 630,80345,630-80345,Vehicle Mounted Message Sign Panel (Furnish Only),0,EACH,!B8306
 630,80348,630-80348,Construction Information Sign,0,EACH,!B8307
 630,80350,630-80350,Vertical Panel,0,EACH,!B8308
@@ -8310,21 +8310,21 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 630,80352,630-80352,Vertical Panel (Special),0,EACH,!B8310
 630,80353,630-80353,Vertical Panel (With Light) (Flashing),0,EACH,!B8311
 630,80354,630-80354,Vertical Panel (With Light) (Steady Burn),0,EACH,!B8312
-630,80355,630-80355,Portable Message Sign Panel,4,EACH,!B8313
+630,80355,630-80355,Portable Message Sign Panel,0,EACH,!B8313
 630,80356,630-80356,Advance Warning Flashing or Sequencing Arrow Panel (A Type),0,EACH,!B8314
 630,80357,630-80357,Advance Warning Flashing or Sequencing Arrow Panel (B Type),0,EACH,!B8315
 630,80358,630-80358,Advance Warning Flashing or Sequencing Arrow Panel (C Type),2,EACH,!B8316
 630,80359,630-80359,Portable Message Sign Panel,0,DAY,!B8317
-630,80360,630-80360,Drum Channelizing Device,123,EACH,!B8318
+630,80360,630-80360,Drum Channelizing Device,50,EACH,!B8318
 630,80361,630-80361,Drum Channelizing Device (Maintain),0,EACH,!B8319
-630,80363,630-80363,Drum Channelizing Device (With Light) (Flashing),4,EACH,!B8320
+630,80363,630-80363,Drum Channelizing Device (With Light) (Flashing),0,EACH,!B8320
 630,80364,630-80364,Drum Channelizing Device (With Light) (Steady Burn),0,EACH,!B8321
 630,80365,630-80365,Portable Message Sign Panel (State Furnished),0,EACH,!B8322
 630,80366,630-80366,Portable Traffic Speed Monitor (State Purchased),0,EACH,!B8323
 630,80367,630-80367,Portable Traffic Speed Monitor,0,EACH,!B8324
 630,80368,630-80368,Portable Traffic Speed Monitor,0,DAY,!B8325
 630,80369,630-80369,Portable Variable Speed Limit Sign,0,EACH,!B8326
-630,80370,630-80370,Concrete Barrier (Temporary),6285,LF,!B8327
+630,80370,630-80370,Concrete Barrier (Temporary),0,LF,!B8327
 630,80371,630-80371,Reset Concrete Barrier (Temporary),0,LF,!B8328
 630,80372,630-80372,Concrete Barrier (Temporary) (Furnish and Install),0,LF,!B8329
 630,80375,630-80375,Concrete Barrier (Temporary) (Install Only),0,LF,!B8330
@@ -8332,7 +8332,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 630,80377,630-80377,Portable Water Filled Barrier (Temporary),0,LF,!B8332
 630,80378,630-80378,Glare Screen (Temporary),0,LF,!B8333
 630,80379,630-80379,Portable Variable Speed Limit Sign,0,EACH,!B8334
-630,80380,630-80380,Traffic Cone,500,EACH,!B8335
+630,80380,630-80380,Traffic Cone,100,EACH,!B8335
 630,80381,630-80381,Traffic Cone (Maintain),0,EACH,!B8336
 630,80383,630-80383,Traffic Cone (Tubular),0,EACH,!B8337
 630,80384,630-80384,Tubular Marker,0,EACH,!B8338
@@ -8351,7 +8351,7 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 630,80440,630-80440,Portable Rumble Strips (Temporary),0,EACH,!B8351
 630,80510,630-80510,Mobile Pavement Marking Zone,0,L S,!B8352
 630,80511,630-80511,Mobile Pavement Marking Zone,0,L S,!B8353
-630,80520,630-80520,Mobile Pavement Marking Zone,0,DAY,!B8354
+630,80520,630-80520,Mobile Pavement Marking Zone,3,DAY,!B8354
 630,80560,630-80560,Mobile Profilograph Operation Zone,0,L S,!B8355
 630,80570,630-80570,Mobile Profilograph Operation Zone,0,DAY,!B8356
 630,81341,630-81341,Construction Traffic Sign (Panel Size A) (Maintain),0,EACH,!B8357
@@ -8362,11 +8362,11 @@ Bid Item Category,Bid Item Num,Bid Item Number,Bid Item Description,Quantity,UOM
 630,81364,630-81364,Drum Channelizing Device (With Light) (Steady Burn) (Maintai,0,EACH,!B8362
 630,85005,630-85005,Impact Attenuator (Guard Rail Energy Absorbing Terminal) (Te,0,EACH,!B8363
 630,85006,630-85006,Impact Attenuator (Sand Filled Plastic Barrel) (Temporary),0,EACH,!B8364
-630,85010,630-85010,Impact Attenuator (Temporary),1,EACH,!B8365
+630,85010,630-85010,Impact Attenuator (Temporary),0,EACH,!B8365
 630,85011,630-85011,Impact Attenuator (Temporary),0,DAY,!B8366
 630,85012,630-85012,Impact Attenuator (Temporary) (Maintain),0,EACH,!B8367
 630,85020,630-85020,Mobile Attenuator,0,EACH,!B8368
-630,85040,630-85040,Impact Attenuator (Truck Mounted Attenuator) (Temporary),2,EACH,!B8369
+630,85040,630-85040,Impact Attenuator (Truck Mounted Attenuator) (Temporary),1,EACH,!B8369
 630,85041,630-85041,Mobile Attenuator,0,DAY,!B8370
 630,85115,630-85115,Impact Attenuator (Quadguard) (Temporary),0,EACH,!B8371
 630,86100,630-86100,River Safety Net,0,EACH,!B8372
