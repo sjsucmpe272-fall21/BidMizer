@@ -37,9 +37,7 @@
             position: absolute;
             top: 100px; left: 0; bottom: 0; right: 0;
             text-align: center;
-            /* text-transform: uppercase; */  
-            /* Above css line was making everything capital */
-            /* can change if required */
+            text-transform: uppercase;
         }
 
         .splash-head {
@@ -80,33 +78,25 @@
     </style>
 </head>
 <body>
-    <form class="" name="" action="/selectProject" method='POST'>
+    <form class="" name="" action="signup" method='POST'>
         <div class="splash-container">
             <div class="splash">
                 <h1 class="splash-head">BidMizer</h1>
-                <p class="splash-subhead">
-                    Get the estimation using BidMizer and master construction bidding everytime
-                </p>
-                <p>
-
-                   
-                    {% for key in result %}
-                    <span style="color: red;">{{result[key]}}</span>
-                    {% endfor %}
-                    <br>
-                    <span style="color: yellow;">{{result.firstname}}</span>
-                    <span style="color: yellow;">{{result.lastname}}</span>
-                    <span style="color: yellow;">{{result.phone}}</span>
-                    <span style="color: yellow;">{{result.email}}</span>
-                     <!-- {% for project in projects %} -->
-                        <!-- <span style="color: pink;">{{project}}</span>
-                    <span style="color: pink;">{{projects[projects]}}</span> -->
-                    <!-- {% endfor %} -->
-                    
-                    {{result.firstname}}
-                    <input type="hidden" value={{result.email}} name="email" />
-                    <button class="pure-button pure-button-primary">Get Bidding Estimate</button>
-                </p>
+                <div class="field">
+                    <input class="input is-large" type="text" name="firstname" required placeholder="First name" autofocus="">
+                </div><div class="field">
+                    <input class="input is-large" type="lastname" name="lastname" required placeholder="Last name" autofocus="">
+                </div>
+                <div class="field">
+                    <input class="input is-large" type="text" name="text" required placeholder="Phone" autofocus="">
+                </div>
+                <div class="field">
+                    <input class="input is-large" type="email" name="email" required placeholder="Your Email" autofocus="">
+                </div>
+                <div class="field">
+                    <input class="input is-large" type="password" name="password"  required  placeholder="Your Password">
+                </div>
+                <button class="pure-button pure-button-primary">Sign Up</button>
             </div>
         </div>
     </form>

@@ -24,7 +24,7 @@
             position: absolute;
             top: 100px; left: 0; bottom: 0; right: 0;
             text-align: center;
-            text-transform: uppercase;
+            /* text-transform: uppercase; */
             color: white;
             letter-spacing: 0.05em;
         }
@@ -62,7 +62,9 @@
                 <h2 class="">Upload the project to calculate the bidding estimate</h2>
                 <h4 class="">Select the project with bid items quantity  to each work item</h4>
                 <div class="splash-file-upload">
-                    <input type = "file" name = "file" />
+                    <input type = "file" name = "file" required />
+                    <input type="text" name="projectname" required placeholder="Enter Project name" />
+                   <input type="hidden" name="email" value= {{result.email}}/>
                     <input type = "submit" class="pure-button pure-button-primary"/>
                 </div>
             </div>
