@@ -12,7 +12,7 @@ locale.setlocale(locale.LC_ALL, 'en_CA.UTF-8')
 
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'Force@22'
+app.config['MYSQL_PASSWORD'] = 'Password@123$'
 app.config['MYSQL_DB'] = 'BidMizer'
 mysql = MySQL(app)
 
