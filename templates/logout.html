@@ -3,6 +3,75 @@
 <head>
     <meta charset="UTF-8">
     <title>BID MIZER</title>
+    <style>
+        * {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        body {
+          line-height: 1.7em;
+          color: #7f8c8d;
+          font-size: 15px;
+        }
+
+        .splash-container {
+            background: #1f8dd6;
+            z-index: 1;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            position: fixed !important;
+        }
+
+        .splash {
+            width: 80%;
+            height: 80%;
+            margin: auto;
+            position: absolute;
+            top: 0px; left: 0; bottom: 0; right: 0;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        .splash-head {
+            font-size: 30px;
+            font-weight: bold;
+            color: white;
+            border: 3px solid white;
+            padding: 1em 1.6em;
+            font-weight: 100;
+            border-radius: 5px;
+            line-height: 1.5em;
+        }
+
+        .splash-subhead {
+            color: white;
+            letter-spacing: 0.05em;
+            opacity: 0.8;
+        }
+
+        .pure-button {
+            background-color: #1f8dd6;
+            color: white;
+            padding: 0.5em 2em;
+            border-radius: 5px;
+        }
+
+        .pure-button-primary {
+            background: white;
+            color: #1f8dd6;
+            border-radius: 5px;
+            font-size: 120%;
+        }
+
+        h1 {
+            color: #34495e;
+        }
+    </style>
 </head>
 <body>
     <form class="" name="" action="/login" method='GET'>

@@ -19,10 +19,10 @@
 
         .splash-body {
             width: 80%;
-            height: 50%;
+            height: 80%;
             margin: auto;
             position: absolute;
-            top: 100px; left: 0; bottom: 0; right: 0;
+            top: 0px; left: 0; bottom: 0; right: 0;
             text-align: center;
             text-transform: uppercase;
             color: white;
@@ -48,18 +48,40 @@
             opacity: 0.8;
         }
 
+        .pure-button {
+            background-color: #1f8dd6;
+            color: white;
+            padding: 0.5em 2em;
+            border-radius: 5px;
+        }
+
+        .pure-button-primary {
+            background: white;
+            color: #1f8dd6;
+            border-radius: 5px;
+            font-size: 120%;
+        }
+
+        .field{
+            margin-top: 1.5em;
+        }
     </style>
 </head>
 <body>
-    <div class="splash-container">
-        <div class="splash-body">
-            <div class="splash">
-                <h1 class="splash-head">Estimated Bid</h1>
-                <p class="splash-subhead">
-                    {{predCost}}
-                </p>
+    <form class="" name="" action="/logout" method='GET'>
+        <div class="splash-container">
+            <div class="splash-body">
+                <div class="splash">
+                    <h1 class="splash-head">Estimated Bid</h1>
+                    <p class="splash-subhead">
+                        {{predCost}}
+                    </p>
+                    <div class="field">
+                        <button class="pure-button pure-button-primary">Logout</button>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
+    </form>
 </body>
 </html>
