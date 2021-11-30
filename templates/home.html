@@ -16,13 +16,13 @@
         body {
           line-height: 1.7em;
           color: #7f8c8d;
-          font-size: 13px;
+          font-size: 15px;
         }
 
         .splash-container {
             background: #1f8dd6;
             z-index: 1;
-            overflow: hidden;
+            overflow: auto;
             width: 100%;
             height: 100%;
             top: 0;
@@ -32,14 +32,12 @@
 
         .splash {
             width: 80%;
-            height: 50%;
+            height: 80%;
             margin: auto;
             position: absolute;
-            top: 100px; left: 0; bottom: 0; right: 0;
+            top: 0px; left: 0; bottom: 0; right: 0;
             text-align: center;
-            /* text-transform: uppercase; */  
-            /* Above css line was making everything capital */
-            /* can change if required */
+            text-transform: uppercase;
         }
 
         .splash-head {
@@ -77,6 +75,26 @@
             color: #34495e;
         }
 
+        h4 {
+            color: white;
+        }
+
+        .previous-project table{
+            margin: auto;
+        }
+
+        .previous-project thead{
+            background-color: white;
+        }
+
+        .previous-project td{
+            color: white;
+        }
+
+        .b-margin {
+            margin-bottom: 1.5em;
+        }
+
     </style>
 </head>
 <body>
@@ -87,26 +105,33 @@
                 <p class="splash-subhead">
                     Get the estimation using BidMizer and master construction bidding everytime
                 </p>
-                <p>
+                <p class="splash-subhead">
+                    Hi <b>{{result.firstname}} {{result.lastname}}</b>, Welcome to BidMizer!
 
-                   
-                    {% for key in result %}
-                    <span style="color: red;">{{result[key]}}</span>
-                    {% endfor %}
-                    <br>
-                    <span style="color: yellow;">{{result.firstname}}</span>
-                    <span style="color: yellow;">{{result.lastname}}</span>
-                    <span style="color: yellow;">{{result.phone}}</span>
-                    <span style="color: yellow;">{{result.email}}</span>
-                     <!-- {% for project in projects %} -->
-                        <!-- <span style="color: pink;">{{project}}</span>
-                    <span style="color: pink;">{{projects[projects]}}</span> -->
-                    <!-- {% endfor %} -->
-                    
-                    {{result.firstname}}
-                    <input type="hidden" value={{result.email}} name="email" />
-                    <button class="pure-button pure-button-primary">Get Bidding Estimate</button>
                 </p>
+                <input type="hidden" value={{result.email}} name="email" />
+                <button class="pure-button pure-button-primary b-margin">Get Bidding Estimate</button>
+                <div class="previous-project">
+                    <h4 class="">Estimated Projects</h4>
+                    <table class="pure-table pure-table-bordered">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Project</th>
+                                <th>Cost</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for project in projects %}
+                            <tr>
+                                <td>{{project + 1}}</td>
+                                <td>{{projects[project].name}}</td>
+                                <td>{{projects[project].cost}}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </div>
     </form>

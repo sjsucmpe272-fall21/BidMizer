@@ -16,7 +16,7 @@
         body {
           line-height: 1.7em;
           color: #7f8c8d;
-          font-size: 13px;
+          font-size: 15px;
         }
 
         .splash-container {
@@ -32,10 +32,10 @@
 
         .splash {
             width: 80%;
-            height: 50%;
+            height: 80%;
             margin: auto;
             position: absolute;
-            top: 100px; left: 0; bottom: 0; right: 0;
+            top: 0px; left: 0; bottom: 0; right: 0;
             text-align: center;
             text-transform: uppercase;
         }
@@ -75,25 +75,52 @@
             color: #34495e;
         }
 
+        .pure-form input {
+            width: 50%;
+            margin: auto;
+        }
+
+        .login-center {
+            margin: auto;
+            width: 60%;
+            border: 3px solid white;
+            padding: 10px;
+        }
+
+        .no-account {
+            color: black;
+            display: inline;
+        }
+
+        .center-view {
+            margin: auto;
+        }
+
+        .field {
+            margin-top: 1em;
+            margin-bottom: 1em;
+        }
+
     </style>
 </head>
 <body>
-    <form class="" name="" action="login" method='POST'>
+    <form class="pure-form" name="" action="login" method='POST'>
         <div class="splash-container">
             <div class="splash">
                 <h1 class="splash-head">BidMizer</h1>
-                <div class="field">
-                    <input class="input is-large" type="email" name="email" required placeholder="Your Email" autofocus="">
-                </div>
-                <div class="field">
-                    <input class="input is-large" type="password" name="password"  required  placeholder="Your Password">
-                </div>
-                <button class="pure-button pure-button-primary">Login</button>
-                <br>
+                <div class="login-center">
+                    <div class="field">
+                        <input class="input is-large center-view " type="email" name="email" required placeholder="Your Email" autofocus="">
+                    </div>
+                    <div class="field">
+                        <input class="input is-large center-view" type="password" name="password"  required  placeholder="Your Password">
 
-                <p style="color: red;display: inline;" >No account?</p> <a href="{{ url_for('signup') }}" > Sign up </a>            
+                    <div class="field">
+                        <button class="pure-button pure-button-primary">Login</button>
+                    </div>
+                    <p class="no-account">No account?</p> <a href="{{ url_for('signup') }}" > Sign up </a>
+                </div>
             </div>
-           
         </div>
     </form>
     
