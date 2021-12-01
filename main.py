@@ -10,10 +10,10 @@ current_directory = os.getcwd()
 app = Flask(__name__)
 locale.setlocale(locale.LC_ALL, 'en_CA.UTF-8')
 
-app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'Password@123$'
-app.config['MYSQL_DB'] = 'BidMizer'
+app.config['MYSQL_HOST'] = 'us-cdbr-east-04.cleardb.com'
+app.config['MYSQL_USER'] = 'b95d910e52bbd2'
+app.config['MYSQL_PASSWORD'] = 'f81c2328'
+app.config['MYSQL_DB'] = 'heroku_8bff76882597e52'
 mysql = MySQL(app)
 
 
@@ -85,7 +85,7 @@ def signup():
 
         conn = mysql.connect
         cur = conn.cursor()
-        query = "insert into BidMizer.Account(firstname,lastname,phone,email,password) values('{}','{}','{}','{}','{}');".format(
+        query = "insert into heroku_8bff76882597e52.Account(firstname,lastname,phone,email,password) values('{}','{}','{}','{}','{}');".format(
             firstname, lastname, phone, email, password)
         print(cur.execute(query))
         conn.commit()
@@ -116,7 +116,7 @@ def predictProject():
     conn = mysql.connect
     cur = conn.cursor()
     # Uncomment below lines for adding project into project database
-    query = "insert into BidMizer.Projects(email,projectname,cost) values('{}','{}','{}');".format(email, name,
+    query = "insert into heroku_8bff76882597e52.Projects(email,projectname,cost) values('{}','{}','{}');".format(email, name,
                                                                                                    predCost)
     cur.execute(query)
     conn.commit()
