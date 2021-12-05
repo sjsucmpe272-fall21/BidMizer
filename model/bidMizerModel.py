@@ -26,31 +26,25 @@ class bidMizerModel(helper):
         return np.hstack((X, pred.reshape(pred.shape[0], 1)))
 
     def fit(self, X, y):
-        # ExtraTreesRegressor
-        print('ExtraTrees Regressor')
         etr = ExtraTreesRegressor(n_estimators=25)
         etr.fit(X, y)
-        joblib.dump(etr, root_directory + '/data/training/pickel/etr.pkl')
+        joblib.dump(etr, root_directory + '/data/training/pickel/regresson1.pkl')
         X = self._add_prediction(etr, X)
 
-        # GradientBoostingRegressor
-        print('GradientBoosting Regressor model')
         gbr = GradientBoostingRegressor(loss='lad')
         gbr.fit(X, y)
-        joblib.dump(gbr, root_directory + '/data/training/pickel/gbr.pkl')
+        joblib.dump(gbr, root_directory + '/data/training/pickel/regresson2.pkl')
         X = self._add_prediction(gbr, X)
 
-        # XGBoost
-        print('XGBoost model')
         parameters = {'max_depth': 7, 'silent': 1, 'eta': 0.3, 'booster': 'gbtree'}
         dmat = xgb.DMatrix(X, label=y)
         self.xgb_model = xgb.train(parameters, dmat)
-        joblib.dump(self.xgb_model, self.current_directory + '/data/training/pickel/xgb_model.pkl')
+        joblib.dump(self.xgb_model, self.current_directory + '/data/training/pickel/xgb1.pkl')
 
     def predict(self, X):
-        etr = joblib.load(self.current_directory + '/data/training/pickel/etr.pkl')
-        gbr = joblib.load(self.current_directory + '/data/training/pickel/gbr.pkl')
-        self.xgb_model = joblib.load(root_directory + '/data/training/pickel/xgb_model.pkl')
+        etr = joblib.load(self.current_directory + '/data/training/pickel/regresson1.pkl')
+        gbr = joblib.load(self.current_directory + '/data/training/pickel/regresson2.pkl')
+        self.xgb_model = joblib.load(root_directory + '/data/training/pickel/xgb1.pkl')
 
         X = self._add_prediction(etr, X)
         X = self._add_prediction(gbr, X)

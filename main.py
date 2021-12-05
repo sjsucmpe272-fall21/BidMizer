@@ -111,7 +111,12 @@ def predictProject():
 
     X_predict = pd.read_csv(project, usecols=['Quantity']).values.reshape(1, -1)
     model = bidMizerModel(current_directory)
-    predCost = locale.currency(model.predict(X_predict))
+    modelFit = model.predict(X_predict)
+    predCost = locale.currency(modelFit)
+    lowRange = modelFit - percentage(10, float(modelFit))
+    highRange = modelFit + percentage(10, float(modelFit))
+    lowRange = locale.currency(lowRange)
+    highRange = locale.currency(highRange)
 
     conn = mysql.connect
     cur = conn.cursor()
@@ -122,8 +127,10 @@ def predictProject():
     conn.commit()
     cur.close()
 
-    return render_template('predictProject.html', predCost=predCost)
+    return render_template('predictProject.html', predCost=predCost, lowRange=lowRange, highRange=highRange)
 
+def percentage(percent, whole):
+  return (percent * whole) / 100.0
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=4500, threaded=True)

@@ -22,7 +22,3 @@ if __name__ == '__main__':
     km = KMeans(n_clusters=2)
     km.fit(X)
     clusters = km.predict(X)
-
-    joblib.dump(pca, root_directory + '/data/training/pickel/pca.pkl')
-    joblib.dump(scale, root_directory + '/data/training/pickel/scale.pkl')
-    joblib.dump(km, root_directory + '/data/training/pickel/km.pkl')
