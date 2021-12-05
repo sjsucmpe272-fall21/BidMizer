@@ -6,3 +6,7 @@ Bid optimization and management requires building a workflow with ML powered cos
 learn more here:
 https://www.hyphensolutions.com/info/products/bp/bidconnect/
 a light weight SaaS solution with focus on bid estimation will be the deliverable.
+
+
+# Hosted Application 
+https://bidestimator.herokuapp.com/
