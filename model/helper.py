@@ -19,15 +19,6 @@ class helper(object):
         df.index.name = name
         return df
 
-    def preprocessing(self, X):
-        scale = joblib.load(root_directory + '/data/training/pickel/scale.pkl')
-        pca = joblib.load(root_directory + '/data/training/pickel/pca.pkl')
-        km = joblib.load(root_directory + '/data/training/pickel/km.pkl')
-        X = scale.transform(X)
-        X = pca.transform(X)
-        clusters = km.predict(X)
-        return X, clusters
-
     def mape(self, y_true, y_pred):
         return np.mean(np.abs((y_true - y_pred) / y_true)) * 100
 
