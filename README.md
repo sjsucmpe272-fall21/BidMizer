@@ -1,5 +1,5 @@
 # BidMizer
-# Contractor bid management and optimization
+# Bid Estimation
 # Introduction
 There are 200,000+ contractors in US alone who bid on construction, remodeling, and other household and commercial projects. Most of small and medium contractors bid based on their experiences with the past similar projects they have done which may have its own implicit biases. They later realized that they either will loose money or cut corner on the work.
 Bid optimization and management requires building a workflow with ML powered cost and schedule prediction.
